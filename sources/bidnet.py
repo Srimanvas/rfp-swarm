@@ -187,7 +187,7 @@ def main():
         print("  %s | closes %s (%s) | via '%s'"
               % (r["location"], r["closing"], r["days_left"], r["keyword"]))
     if a.json:
-        json.dump({"results": rows}, open(a.json, "w", encoding="utf-8"), indent=2)
+        json.dump(ledger.envelope(rows, control=control), open(a.json, "w", encoding="utf-8"), indent=2)
 
 if __name__ == "__main__":
     main()

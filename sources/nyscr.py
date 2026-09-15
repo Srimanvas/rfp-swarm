@@ -178,7 +178,7 @@ def main():
         print("  %s" % r["category"])
         print("  %s" % r["url"])
     if a.json:
-        json.dump({"results": rows}, open(a.json, "w", encoding="utf-8"), indent=2)
+        json.dump(ledger.envelope(rows, control=trusted), open(a.json, "w", encoding="utf-8"), indent=2)
 
 
 if __name__ == "__main__":

@@ -166,7 +166,7 @@ def main():
         print("  %s | %s | %s | closes %s" % (r["agency"], r["type"], r["country"], r["deadline"]))
         print("  %s  -- %s" % (r["url"], r["reason"]))
     if a.json:
-        json.dump({"results": rows}, open(a.json, "w", encoding="utf-8"), indent=2)
+        json.dump(ledger.envelope(rows), open(a.json, "w", encoding="utf-8"), indent=2)
 
 
 if __name__ == "__main__":

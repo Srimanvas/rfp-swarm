@@ -60,6 +60,22 @@ def test_adapters_run_from_repo_root():
                            cwd=root, capture_output=True, text=True)
         assert r.returncode == 0, "sources/%s.py fails from repo root:%s%s" % (name, os.linesep, r.stderr.strip())
 
+def test_every_adapter_emits_the_same_envelope():
+    """All five --json outputs must carry counts, not just results.
+
+    Only sam.py did. A cloud run re-ran nyscr.py four times looking for a
+    summary the JSON never contained - four full sweeps for one number."""
+    import ledger, re, io as _io, os
+    env = ledger.envelope([{"verdict": "REVIEW", "is_new": True},
+                           {"verdict": "REJECT", "is_new": False}], control=True)
+    assert set(env) >= {"generated_utc", "control_passed", "counts", "results"}
+    assert env["counts"]["total"] == 2 and env["counts"]["new"] == 1
+    assert env["counts"]["by_verdict"] == {"REVIEW": 1, "REJECT": 1}
+    root = os.path.dirname(os.path.abspath(__file__))
+    for name in ("nyscr", "bidnet", "ungm", "issuers"):
+        src = _io.open(os.path.join(root, "sources", name + ".py"), encoding="utf-8").read()
+        assert "ledger.envelope(" in src, "%s still writes a bare results dict" % name
+
 if __name__ == "__main__":
     for name, fn in sorted(globals().items()):
         if name.startswith("test_"):

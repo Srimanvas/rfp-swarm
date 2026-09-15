@@ -162,7 +162,7 @@ def main():
         print("\n[%s]%s %s" % (r["issuer"], " NEW" if r["is_new"] else "", r["title"]))
         print("  %s" % r["url"])
     if a.json:
-        json.dump({"results": rows}, open(a.json, "w", encoding="utf-8"), indent=2)
+        json.dump(ledger.envelope(rows), open(a.json, "w", encoding="utf-8"), indent=2)
 
 
 if __name__ == "__main__":

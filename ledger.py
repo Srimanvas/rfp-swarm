@@ -36,3 +36,25 @@ def mark(rows, seen, source, id_field):
     for r in rows:
         r["is_new"] = key(source, r.get(id_field, "")) not in seen
     return rows
+
+
+def envelope(rows, control=None, **extra):
+    """Uniform --json envelope for every adapter.
+
+    sam.py already emitted counts; the other four emitted bare {"results": rows}.
+    A cloud run then re-ran nyscr.py FOUR TIMES hunting for a summary it could not
+    find in the JSON - four full 599-ad sweeps, one of which hit a network error.
+    Same shape everywhere means one run is enough."""
+    from datetime import datetime, timezone
+    verdicts = {}
+    for r in rows:
+        v = r.get("verdict", "UNKNOWN")
+        verdicts[v] = verdicts.get(v, 0) + 1
+    out = {"generated_utc": datetime.now(timezone.utc).isoformat(),
+           "control_passed": control,
+           "counts": {"total": len(rows),
+                      "new": sum(1 for r in rows if r.get("is_new", True)),
+                      "by_verdict": verdicts},
+           "results": rows}
+    out.update(extra)
+    return out
