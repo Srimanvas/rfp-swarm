@@ -26,6 +26,7 @@ runs/
 *.pdf
 *.docx
 *.zip
+.sweep/
 
 # --- ordinary noise
 __pycache__/
