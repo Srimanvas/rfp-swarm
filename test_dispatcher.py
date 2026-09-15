@@ -1,0 +1,55 @@
+"""One runnable check: the partition is disjoint and the fences are attached.
+
+    python test_dispatcher.py
+"""
+import dispatcher
+
+
+def test_registry_parses():
+    s = dispatcher.load()
+    assert len(s) >= 8, "expected the seeded registry, got %d rows" % len(s)
+    assert {x["id"] for x in s} >= {"sam", "bidnet", "nyscr", "ungm", "issuers"}
+
+
+def test_partition_is_disjoint():
+    plan = dispatcher.assign(dispatcher.load())
+    ids = [p["source"] for p in plan]
+    assert len(ids) == len(set(ids)), "a source was assigned to two agents: %s" % ids
+
+
+def test_double_assignment_raises():
+    dup = [{"id": "sam", "lane": "federal", "adapter": None, "access": "script",
+            "status": "active", "notes": ""}] * 2
+    try:
+        dispatcher.assign(dup)
+    except ValueError:
+        return
+    raise AssertionError("assign() accepted a duplicated source")
+
+
+def test_blocked_source_is_not_assigned():
+    plan = dispatcher.assign(dispatcher.load())
+    assert "linkedin" not in [p["source"] for p in plan],         "linkedin is status=blocked pending a Chrome permission grant"
+
+
+def test_every_agent_carries_fences():
+    for p in dispatcher.assign(dispatcher.load()):
+        assert p["fences"], "%s has no fences" % p["agent"]
+        assert any("BLOCKED" in f for f in p["fences"]), "%s lacks the escalation rule" % p["agent"]
+        assert p["brief"] == "BRIEF.md", "%s must load the one-page brief, not RAMEDIA.md" % p["agent"]
+
+
+def test_only_search_lane_may_websearch():
+    for p in dispatcher.assign(dispatcher.load()):
+        allowed = any("WebSearch allowed" in f for f in p["fences"])
+        forbidden = any(f == "no WebSearch" for f in p["fences"])
+        assert allowed or forbidden or p["lane"] in ("nonprofit", "discovery",
+                                                     "nonprofit-commercial", "signal"),             "%s neither permits nor forbids WebSearch" % p["agent"]
+
+
+if __name__ == "__main__":
+    for name, fn in sorted(globals().items()):
+        if name.startswith("test_"):
+            fn(); print("ok  " + name)
+    print()
+    print("all checks passed")

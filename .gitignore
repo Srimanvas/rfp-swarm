@@ -1,0 +1,37 @@
+# ---------------------------------------------------------------------------
+# THE FENCE. This repo holds CODE and ARCHITECTURE only.
+# No solicitations, no found opportunities, no board folders, no client data.
+# ---------------------------------------------------------------------------
+
+# --- firm-confidential context (FEIN, phone, client reference emails,
+#     the never-claim list, compliance gaps). NEVER commit to a public repo.
+RAMEDIA.md
+RULES.md
+
+# --- found opportunities and anything derived from them
+BOARD-LEDGER.md
+SCREEN-*.md
+seen-notices*.json
+opportunities/
+rfps/
+documents/
+_screens/
+_reference/
+
+# --- source dumps and run output
+*.json
+!package.json
+out/
+runs/
+*.pdf
+*.docx
+*.zip
+
+# --- ordinary noise
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db

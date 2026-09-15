@@ -1,0 +1,42 @@
+# Mission-driven issuers polled for their own RFP pages.
+# domain<TAB>discovered-url. Add domains freely; --discover fills the URL.
+meridian.org	https://www.meridian.org/rfp/
+lsc.gov
+cepf.net
+urban.org
+aspeninstitute.org
+rwjf.org
+macfound.org
+kff.org
+aha.org
+ncte.org
+fordfoundation.org
+hewlett.org
+packard.org
+mellon.org
+kresge.org
+rockefellerfoundation.org	https://rockefellerfoundation.org/rfps
+gatesfoundation.org
+knightfoundation.org	https://knightfoundation.org/request-for-proposals
+irex.org
+counterpart.org
+pactworld.org	https://pactworld.org/procurement
+winrock.org	https://winrock.org/rfp
+rti.org	https://rti.org/rfp
+mathematica.org
+chemonics.com
+fhi360.org
+pathfinder.org
+jhpiego.org
+savethechildren.org
+mercycorps.org
+irc.org
+care.org	https://care.org/procurement
+oxfamamerica.org
+heifer.org	https://heifer.org/procurement
+conservation.org	https://conservation.org/rfp
+edf.org
+nrdc.org
+wri.org
+nature.org
+audubon.org
