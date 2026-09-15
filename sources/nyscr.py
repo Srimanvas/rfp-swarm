@@ -14,6 +14,10 @@ import argparse, html, json, re, sys, time
 from datetime import datetime
 import urllib.parse, urllib.request
 
+import os as _os, sys as _sys
+# sources/ adapters import board/ledger from the repo root, which is not on
+# sys.path when run as `python sources/<name>.py`. Put the root on the path.
+_sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))))
 import board
 import ledger
 

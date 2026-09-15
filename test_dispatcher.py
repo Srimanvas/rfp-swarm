@@ -47,6 +47,19 @@ def test_only_search_lane_may_websearch():
                                                      "nonprofit-commercial", "signal"),             "%s neither permits nor forbids WebSearch" % p["agent"]
 
 
+def test_adapters_run_from_repo_root():
+    """Adapters live in sources/ but import board/ledger from the root.
+
+    py_compile does NOT catch this - it never executes imports - so a broken
+    path shim would ship green and every sweep would die at runtime. Actually
+    run each one."""
+    import os, subprocess, sys
+    root = os.path.dirname(os.path.abspath(__file__))
+    for name in ("sam", "bidnet", "nyscr", "ungm", "issuers"):
+        r = subprocess.run([sys.executable, os.path.join("sources", name + ".py"), "--help"],
+                           cwd=root, capture_output=True, text=True)
+        assert r.returncode == 0, "sources/%s.py fails from repo root:%s%s" % (name, os.linesep, r.stderr.strip())
+
 if __name__ == "__main__":
     for name, fn in sorted(globals().items()):
         if name.startswith("test_"):
