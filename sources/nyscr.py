@@ -113,8 +113,11 @@ def screen(ad):
     # a due date a year+ out is a standing enrolment program, not a project to bid
     if n is not None and n > 300:
         return "REJECT", "rolling enrolment program (due %d days out)" % n
-    if n is not None and n < 7:
-        return "REJECT", "closes in %d days" % n
+    # Phase 0 fix 1b (user-approved 2026-09-15): aligned with sam.py. Was 7.
+    if n is not None and n < 3:
+        return "REJECT", "closes in %d days - below the 3-day floor" % n
+    if n is not None and n < 10 and FIT.search(text):
+        return "REVIEW", "SHORT-FUSE: closes in %d days - decide fast" % n
     if not FIT.search(text):
         return "WEAK", "no build signal in title"
     return "REVIEW", "fit signal in title"

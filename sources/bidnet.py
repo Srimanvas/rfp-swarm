@@ -100,8 +100,11 @@ def screen(r):
     n = days_out(r["closing"])
     if n is None:
         return "REJECT", "no closing date (standing catalogue entry)"
-    if n < 7:
-        return "REJECT", "closes in %s days" % n
+    # Phase 0 fix 1b (user-approved 2026-09-15): aligned with sam.py. Was 7.
+    if n < 3:
+        return "REJECT", "closes in %s days - below the 3-day floor" % n
+    if n < 10:
+        return "REVIEW", "SHORT-FUSE: closes in %s days - decide fast" % n
     # a year+ out is a standing roster or master agreement, not a project to bid
     if n > 300:
         return "REJECT", "open-ended vehicle (closes %d days out)" % n
