@@ -15,6 +15,7 @@ ponytail: stdlib only. The roster is a text file, not a database.
 """
 import argparse
 import concurrent.futures as cf
+from datetime import datetime
 import io, html, json, os, re, time
 import urllib.error, urllib.request
 
@@ -56,7 +57,18 @@ def get(url, timeout=15):
 
 
 def load_roster():
-    """Lines are 'domain' or 'domain<TAB>discovered-url'. # comments allowed."""
+    """Roster lines, in one of three shapes:
+
+        domain                        never probed
+        domain<TAB>url                has an RFP page
+        domain<TAB>-<TAB>YYYY-MM-DD   probed on that date, no page found
+
+    The third shape is what makes a large roster affordable. A domain with no RFP
+    page costs every path in PATHS, and most domains have none, so re-probing the
+    whole roster weekly is the dominant cost: at ~8,800 domains that is hours per
+    run. Recording the date means a miss is retried on a slow cycle (see
+    --recheck-days) instead of every single run. Comments are allowed.
+    """
     out = []
     if not os.path.exists(ROSTER):
         return out
@@ -65,8 +77,21 @@ def load_roster():
         if not line or line.startswith("#"):
             continue
         parts = line.split("\t")
-        out.append((parts[0], parts[1] if len(parts) > 1 else ""))
+        url = parts[1] if len(parts) > 1 else ""
+        checked = parts[2] if len(parts) > 2 else ""
+        out.append((parts[0], "" if url == "-" else url, checked))
     return out
+
+
+def stale(checked, days):
+    """True if a past miss is old enough to be worth probing again."""
+    if not checked:
+        return True
+    try:
+        when = datetime.strptime(checked, "%Y-%m-%d")
+    except ValueError:
+        return True
+    return (datetime.now() - when).days >= days
 
 
 def load_lines():
@@ -118,6 +143,14 @@ def postings(body, base):
 
 def main():
     ap = argparse.ArgumentParser()
+    ap.add_argument("--limit", type=int, default=0,
+                    help="probe at most N domains this run, then write. The roster "
+                         "is only saved when the run ends, so at thousands of "
+                         "domains an un-chunked run risks hours of lost work. "
+                         "0 means no limit")
+    ap.add_argument("--recheck-days", type=int, default=90,
+                    help="re-probe a past miss only if it is this many days old "
+                         "(default 90; 0 forces every domain)")
     ap.add_argument("--jobs", type=int, default=12,
                     help="parallel domains during --discover (default 12)")
     ap.add_argument("--discover", action="store_true",
@@ -133,22 +166,34 @@ def main():
 
     if a.discover:
         # A domain with NO RFP page costs every path in PATHS, and most domains
-        # have none, so the negative case dominates the runtime. Serial was fine
-        # at 40 domains and unusable at 500. Fan out across domains; each worker
-        # still paces itself between its own paths, and workers hit different
-        # hosts, so no single host sees a burst.
+        # have none, so the negative case dominates the runtime. Two things keep
+        # that affordable at roster sizes in the thousands: fan out across domains
+        # (each worker still paces itself between its own paths, and workers hit
+        # different hosts so no host sees a burst), and skip domains already
+        # probed recently.
+        today = datetime.now().strftime("%Y-%m-%d")
+        todo = [(d, u, c) for d, u, c in roster
+                if u or stale(c, a.recheck_days)]
+        if a.limit:
+            todo = todo[:a.limit]
+        skipped = len(roster) - len(todo)
+        if skipped:
+            print("skipping %d domains probed within the last %d days "
+                  "(--recheck-days 0 to force)" % (skipped, a.recheck_days))
+
         def resolve(item):
-            domain, known = item
+            domain, known, _ = item
             return domain, (known or discover(domain))
 
         with cf.ThreadPoolExecutor(max_workers=a.jobs) as ex:
-            resolved = dict(ex.map(resolve, roster))
+            resolved = dict(ex.map(resolve, todo))
         found = sum(1 for v in resolved.values() if v)
-        for domain, _ in roster:
+        for domain, _, _ in todo:
             print("  %-34s %s" % (domain, resolved[domain] or "(no RFP page found)"))
 
-        # Never drop a line. Comments, cluster labels and unresolved domains all
-        # survive; the roster only ever GAINS resolved URLs.
+        # Never drop a line. Comments, cluster labels and every domain survive;
+        # the roster only ever GAINS information.
+        prior = {d: (u, c) for d, u, c in roster}
         out = []
         for line in load_lines():
             bare = line.strip()
@@ -156,16 +201,22 @@ def main():
                 out.append(line)
                 continue
             d = bare.split("\t")[0]
-            url = resolved.get(d, "")
-            out.append("%s\t%s" % (d, url) if url else d)
+            if d in resolved:
+                url = resolved[d]
+                out.append("%s\t%s" % (d, url) if url
+                           else "%s\t-\t%s" % (d, today))
+            else:
+                out.append(line)            # untouched this run, keep verbatim
         with io.open(ROSTER, "w", encoding="utf-8", newline=NEWLINE) as fh:
             fh.write(NEWLINE.join(out) + NEWLINE)
-        print("\n%d of %d domains have a findable RFP page" % (found, len(roster)))
+        print("\n%d of %d probed domains have a findable RFP page "
+              "(%d already known, %d skipped)"
+              % (found, len(todo), sum(1 for _, u, _ in roster if u), skipped))
         return
 
     ledg = ledger.load(a.seen)
     rows, live = [], 0
-    for domain, url in roster:
+    for domain, url, _checked in roster:
         if not url:
             continue
         try:
