@@ -14,10 +14,10 @@ The history of what was tried and what failed is the point.
 | nyscr | state-local | sources/nyscr.py | script | active | all NY agencies/authorities >= $50K must advertise here |
 | ungm | un | sources/ungm.py | script | active | ~4,000 notices. Submission still gated on Quantum registration |
 | issuers | nonprofit | sources/issuers.py | http | active | 40-domain roster; the lever is roster size |
-| google | search | - | search | active | dork lane ONLY. Proven phrasings, fixed query budget. Emits leads, never finds |
+| google | search | sources/google.py | search | active | dork lane ONLY. Proven phrasings, fixed query budget. Emits leads, never finds |
 | linkedin | signal | - | browser | blocked | needs Chrome extension permission for linkedin.com |
-| web | nonprofit-commercial | - | http | active | website/CMS scope, nonprofit + commercial issuers only |
-| scout | discovery | - | http | active | hunts sources not in this table. Emits candidate sources, never opportunities |
+| web | nonprofit-commercial | sources/web.py | http | active | website/CMS scope, nonprofit + commercial issuers only |
+| scout | discovery | sources/scout.py | http | active | hunts sources not in this table. Emits candidate sources, never opportunities |
 
 ## Retired / known-unfixable - do not re-attempt
 

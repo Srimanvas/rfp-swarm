@@ -14,6 +14,9 @@ import argparse, io, json, os, re, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 
+# The search lane's hard query allowance, stated once.
+SEARCH_QUERY_BUDGET = 40
+
 # Fences by access type. The coordinator hands these to each agent verbatim.
 # "unlimited agents in parallel to find sources and rfps" is uncapped in COUNT,
 # never in cost per agent -- one badly-scoped agent outspends twenty disciplined ones.
@@ -22,7 +25,7 @@ FENCES = {
                 "no WebSearch", "no document retrieval"],
     "http":    ["plain fetch only - no browser, no WebSearch",
                 "no document retrieval", "two failures then BLOCKED"],
-    "search":  ["WebSearch allowed, budget %d queries - you are the ONLY agent permitted to call it" % 40,
+    "search":  ["WebSearch allowed, budget %d queries - you are the ONLY agent permitted to call it" % SEARCH_QUERY_BUDGET,
                 "proven phrasings only", "emit LEADS, never FINDS - a deadline must come from the issuer"],
     "browser": ["SINGLETON - never runs alongside another browser agent",
                 "read-only: no messaging, no connection requests, no form submission",
@@ -34,6 +37,7 @@ COMMON = [
     "check BOARD-LEDGER.md before reporting anything as a fresh find",
     "never infer a fact the brief does not contain - emit BLOCKED instead",
     "two failed attempts then BLOCKED - no retry loops",
+    "if your lane has an adapter, run it - do not re-implement its screen by hand",
 ]
 
 ROW = re.compile(r"^\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|"

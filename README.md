@@ -20,6 +20,9 @@ folders, no client data - see `.gitignore`, which is the fence.
 | `KILL-PATTERNS.md` | learned kill phrases, appended every time a bid dies |
 | `dispatcher.py` | deterministic source-to-agent partition |
 | `sources/` | the source adapters, standard library only |
+| `sources/google.py` | search-lane query generator - emits dorks, never calls WebSearch itself |
+| `sources/web.py` | website/CMS screen over other adapters' JSON, nonprofit + commercial issuers |
+| `sources/scout.py` | reachability gate for candidate new sources, before one earns a SOURCES.md row |
 | `board.py` | token-overlap dedupe against work already done |
 | `docs.py` | document retrieval and text extraction - runs after the verdict gate, never before |
 

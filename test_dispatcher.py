@@ -5,6 +5,24 @@
 import dispatcher
 
 
+def _registry_adapters():
+    """Every adapter SOURCES.md actually claims to have.
+
+    Derived, not hardcoded: adding a source to the registry puts it under test
+    automatically, and a registry row pointing at a file that does not exist is
+    itself a bug worth failing on."""
+    import dispatcher, os
+    root = os.path.dirname(os.path.abspath(__file__))
+    out = []
+    for s in dispatcher.load():
+        if not s["adapter"]:
+            continue
+        assert os.path.exists(os.path.join(root, s["adapter"])),             "SOURCES.md row '%s' points at %s, which does not exist" % (s["id"], s["adapter"])
+        out.append(s["adapter"])
+    assert len(out) >= 7, "expected at least 7 adapters in the registry, found %d" % len(out)
+    return out
+
+
 def test_registry_parses():
     s = dispatcher.load()
     assert len(s) >= 8, "expected the seeded registry, got %d rows" % len(s)
@@ -55,10 +73,10 @@ def test_adapters_run_from_repo_root():
     run each one."""
     import os, subprocess, sys
     root = os.path.dirname(os.path.abspath(__file__))
-    for name in ("sam", "bidnet", "nyscr", "ungm", "issuers"):
-        r = subprocess.run([sys.executable, os.path.join("sources", name + ".py"), "--help"],
+    for rel in _registry_adapters():
+        r = subprocess.run([sys.executable, rel, "--help"],
                            cwd=root, capture_output=True, text=True)
-        assert r.returncode == 0, "sources/%s.py fails from repo root:%s%s" % (name, os.linesep, r.stderr.strip())
+        assert r.returncode == 0, "%s fails from repo root:%s%s" % (rel, os.linesep, r.stderr.strip())
 
 def test_every_adapter_emits_the_same_envelope():
     """All five --json outputs must carry counts, not just results.
@@ -72,9 +90,11 @@ def test_every_adapter_emits_the_same_envelope():
     assert env["counts"]["total"] == 2 and env["counts"]["new"] == 1
     assert env["counts"]["by_verdict"] == {"REVIEW": 1, "REJECT": 1}
     root = os.path.dirname(os.path.abspath(__file__))
-    for name in ("nyscr", "bidnet", "ungm", "issuers"):
-        src = _io.open(os.path.join(root, "sources", name + ".py"), encoding="utf-8").read()
-        assert "ledger.envelope(" in src, "%s still writes a bare results dict" % name
+    for rel in _registry_adapters():
+        if rel.endswith("sam.py"):
+            continue                      # sam.py predates the helper and inlines the same shape
+        src = _io.open(os.path.join(root, rel), encoding="utf-8").read()
+        assert "ledger.envelope(" in src, "%s still writes a bare results dict" % rel
 
 if __name__ == "__main__":
     for name, fn in sorted(globals().items()):

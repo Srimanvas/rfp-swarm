@@ -78,10 +78,10 @@ calls the script for the matching half.
 |---|---|---|
 | SAM, BidNet, NYSCR, UNGM | proven, script-backed | deterministic, near-zero token cost |
 | nonprofit issuers | **strongest of the web lanes** | Meridian, CEPF, LSC, CalVCB all came this way and none were syndicated anywhere. The lever is roster size: `sources/issuers.txt` holds 40 domains, and that is the entire lane |
-| google | dork lane only | generic search failed five of five attempts here and invented two deadlines that nearly shipped as confirmed finds. Only specific phrasings work. Fixed query budget, and it emits leads, never finds |
+| google | dork lane, `sources/google.py` | generic search failed five of five attempts here and invented two deadlines that nearly shipped as confirmed finds. Only specific phrasings work. Fixed query budget, and it emits leads, never finds |
 | linkedin | signal lane, blocked | hosts the signals that precede solicitations - grant awards, new digital-director hires - not solicitations themselves. Output belongs in a watchlist, not a GO list |
-| web | nonprofit and commercial issuers only | website and CMS scope |
-| scout | discovery | emits candidate sources, never opportunities |
+| web | nonprofit and commercial issuers only, `sources/web.py` | website and CMS scope, screened over the other adapters' JSON |
+| scout | discovery, `sources/scout.py` | reachability gate first; emits candidate sources, never opportunities |
 
 ## What compounds, and what does not
 
