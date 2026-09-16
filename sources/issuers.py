@@ -13,7 +13,9 @@ domain. Add a domain to issuers.txt and it finds the page itself.
 
 ponytail: stdlib only. The roster is a text file, not a database.
 """
-import argparse, html, json, os, re, time
+import argparse
+import concurrent.futures as cf
+import io, html, json, os, re, time
 import urllib.error, urllib.request
 
 import os as _os, sys as _sys
@@ -29,6 +31,8 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 ROSTER = os.path.join(os.path.dirname(os.path.abspath(__file__)), "issuers.txt")
 
 # Ordered by how often each actually turns out to be the right one.
+NEWLINE = chr(10)
+
 PATHS = ["/rfp", "/rfps", "/procurement", "/bids", "/rfp/", "/rfps/",
          "/about/procurement", "/about-us/procurement", "/work-with-us/rfp",
          "/doing-business", "/opportunities", "/request-for-proposals",
@@ -63,6 +67,15 @@ def load_roster():
         parts = line.split("\t")
         out.append((parts[0], parts[1] if len(parts) > 1 else ""))
     return out
+
+
+def load_lines():
+    """Roster lines verbatim, comments included, so --discover can rewrite the
+    file without dropping the cluster labels that record where each domain came
+    from. The previous rewrite discarded them silently."""
+    if not os.path.exists(ROSTER):
+        return []
+    return [l.rstrip(NEWLINE) for l in io.open(ROSTER, encoding="utf-8")]
 
 
 def discover(domain):
@@ -105,6 +118,8 @@ def postings(body, base):
 
 def main():
     ap = argparse.ArgumentParser()
+    ap.add_argument("--jobs", type=int, default=12,
+                    help="parallel domains during --discover (default 12)")
     ap.add_argument("--discover", action="store_true",
                     help="probe each domain for its RFP page and rewrite the roster")
     ap.add_argument("--seen", help="ledger JSON to dedupe against")
@@ -117,18 +132,34 @@ def main():
         return
 
     if a.discover:
-        found, lines = 0, []
-        for domain, known in roster:
-            url = known or discover(domain)
-            if url:
-                found += 1
-            lines.append("%s\t%s" % (domain, url) if url else domain)
-            print("  %-34s %s" % (domain, url or "(no RFP page found)"))
-        # never drop a domain: the roster only ever gains resolved URLs
-        with open(ROSTER, "w", encoding="utf-8", newline="\n") as fh:
-            fh.write("# Mission-driven issuers polled for their own RFP pages.\n")
-            fh.write("# domain<TAB>discovered-url. Add domains freely; --discover fills the URL.\n")
-            fh.write("\n".join(lines) + "\n")
+        # A domain with NO RFP page costs every path in PATHS, and most domains
+        # have none, so the negative case dominates the runtime. Serial was fine
+        # at 40 domains and unusable at 500. Fan out across domains; each worker
+        # still paces itself between its own paths, and workers hit different
+        # hosts, so no single host sees a burst.
+        def resolve(item):
+            domain, known = item
+            return domain, (known or discover(domain))
+
+        with cf.ThreadPoolExecutor(max_workers=a.jobs) as ex:
+            resolved = dict(ex.map(resolve, roster))
+        found = sum(1 for v in resolved.values() if v)
+        for domain, _ in roster:
+            print("  %-34s %s" % (domain, resolved[domain] or "(no RFP page found)"))
+
+        # Never drop a line. Comments, cluster labels and unresolved domains all
+        # survive; the roster only ever GAINS resolved URLs.
+        out = []
+        for line in load_lines():
+            bare = line.strip()
+            if not bare or bare.startswith("#"):
+                out.append(line)
+                continue
+            d = bare.split("\t")[0]
+            url = resolved.get(d, "")
+            out.append("%s\t%s" % (d, url) if url else d)
+        with io.open(ROSTER, "w", encoding="utf-8", newline=NEWLINE) as fh:
+            fh.write(NEWLINE.join(out) + NEWLINE)
         print("\n%d of %d domains have a findable RFP page" % (found, len(roster)))
         return
 
