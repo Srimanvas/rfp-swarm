@@ -100,6 +100,11 @@ def judge(url, status, body, err=""):
         return row
 
     # "obvious org name in <title>" -- two capitalised words is the cheap tell.
+    # ponytail: loose on purpose. This rubber-stamps check 3 on almost any titled
+    # page -- it passed "Example Domain". Only the awardable gate below rejected
+    # that, so the gate effectively rests on check 4 alone. Fine while check 4
+    # stays strict; whoever weakens check 4 must replace this with a real
+    # issuer-name test first.
     ck["names_issuer"] = bool(ISSUER.search(text)) or bool(
         re.search(r"\b[A-Z][a-z]{2,}(?: (?:of|for|the))? [A-Z][a-z]{2,}", title))
     # Awardable only if it outweighs the RFI/EOI chatter, not merely appears.
