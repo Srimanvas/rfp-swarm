@@ -4149,653 +4149,653 @@ berkshirebotanical.org	-	2026-09-16
 bernheim.org	-	2026-09-16
 bettyfordalpinegardens.org	-	2026-09-16
 bhwp.org	-	2026-09-16
-blithewold.org
-bloedelreserve.org
-bluespringheritage.com
-bmuseum.org
-boernerbotanicalgardens.org
-boktowergardens.org
-botanicalcenter.com
-botanicalconservatory.org
-botanicalgarden.berkeley.edu
-botanicgardens.uw.edu
-brandywine.org
-brit.org
-btarboretum.org
-business-services.upenn.edu
-calbg.org
-capefearbg.org
-cbgarden.org
-cdri.org
-chadwickarboretum.osu.edu
-charlestown.org
-chicagoparkdistrict.com
-chippewanaturecenter.org
-cityofchesapeake.net
-clarkbotanic.org
-coastal.edu
-crosbyarboretum.msstate.edu
-csulb.edu
-dallasarboretum.org
-dawesarb.org
-delval.edu
-descansogardens.org
-dowgardens.org
-drew.edu
-drugmuseum.org
-dyckarboretum.org
-etsu.edu
-fairviewcemetery1.com
-fcgov.com
-flamingogardens.org
-floridastateparks.org
-fpconservatory.org
-fullertonarboretum.org
-fwbg.org
-gardenbythesea.org
-gardens.duke.edu
-garfieldgardensconservatory.org
-garvangardens.org
-geneseecountyparks.org
-georgesonbotanicalgarden.org
-gggp.org
-ghprd.org
-greenwoodgardens.org
-hartmanprehistoricgarden.com
-haverford.edu
-hayesarboretum.org
-hbg.org
-hearthstonebotanicalgardens.org
-heathcotebotanicalgardens.org
-hersheygardens.org
-hofstra.edu
-holdenarb.org
-hoytarboretum.org
-hsvbg.org
-idahobotanicalgarden.org
-illinoisaudubon.org
-innisfreegarden.org
-inniswood.org
-internationalpeacegardens.org
-jenkinsarboretum.org
-jmu.edu
-journeymuseum.org
-juniperlevelbotanicgarden.org
-kbgmaui.com
-kruckeberg.org
-ladewgardens.com
-lakelandgov.net
-lasgarden.org
-leaferie.org
-leconte-woodmanston.org
-lincolnmemorialgarden.org
-lombardlilactime.com
-longuevue.com
-lutherburbank.org
-magnoliaplantation.com
-mainegardens.org
-manoa.hawaii.edu
-mbgarden.org
-mbgna.umich.edu
-mcallen.net
-mckeegarden.org
-meadowburnfarm.com
-mga.edu
-millergarden.org
-minnetrista.net
-missiongarden.org
-missouribotanicalgarden.org
-mnbg.org
-montalto.psu.edu
-montgomerybotanical.org
-montgomeryparks.org
-montrosegardens.org
-moorefarmsbg.org
-moortenbotanicalgarden.com
-morikami.org
-morrisparks.net
-museum.utep.edu
-my.spokanecity.org
-nanimaugardens.com
-naplesgarden.org
-ncarboretum.org
-ncbg.unc.edu
-nhstateparks.org
-norfolkbotanicalgarden.org
-northlandarb.org
-ntbg.org
-nvrpa.org
-nwmissouri.edu
-nysaes.cals.cornell.edu
-omahabotanicalgardens.org
-pct3.com
-peacegarden.com
-phipps.conservatory.org
-pittsburghbotanicgarden.org
-pollyhillarboretum.org
-potawatomiconservatories.org
-powellgardens.org
-presbyirisgardens.org
-psbehrend.psu.edu
-pslbg.org
-publicgardens.org
-queensbotanical.org
-readingpublicmuseum.org
-reflectionriding.org
-reimangardens.com
-rogersonclematiscollection.org
-rose.org
-rutgersgardens.rutgers.edu
-ruthmottfoundation.org
-sabot.org
-santafebotanicalgarden.org
-savannahbotanical.org
-sbbg.org
-sc.edu
-schedel-gardens.org
-scottarboretum.org
-sdbgarden.org
-secrest.osu.edu
-selby.org
-sfbg.org
-sgvbg.org
-shangrilagardens.org
-shenandoahmuseum.org
-sites.gsu.edu
-siue.edu
-smith.edu
-snug-harbor.org
-springfieldparks.org
-springgrove.org
-steinlodge.com
-stpete.org
-stxbot.org
-taltree.org
-thanksgivingpoint.org
-thebrentonarboretum.org
-thedch.org
-thegardens.org
-thejapanesegarden.com
-threeriversparks.org
-tohonochul.org
-towerhillbg.org
-treehill.org
-tucsonbotanical.org
-tulsabotanic.org
-tylerarboretum.org
-untermyergardens.org
-uwarboretum.org
-vanderbrohearboretum.org
-volunteerparkconservatory.org
-waimeavalley.net
-wavehill.org
-wildflower.org
-williamsburgbotanicalgarden.org
-wkbg.org
-woodlandcemetery.org
-zilkergarden.org
+blithewold.org	-	2026-09-16
+bloedelreserve.org	-	2026-09-16
+bluespringheritage.com	-	2026-09-16
+bmuseum.org	-	2026-09-16
+boernerbotanicalgardens.org	-	2026-09-16
+boktowergardens.org	https://boktowergardens.org/rfp
+botanicalcenter.com	-	2026-09-16
+botanicalconservatory.org	-	2026-09-16
+botanicalgarden.berkeley.edu	-	2026-09-16
+botanicgardens.uw.edu	-	2026-09-16
+brandywine.org	-	2026-09-16
+brit.org	https://brit.org/rfp
+btarboretum.org	-	2026-09-16
+business-services.upenn.edu	-	2026-09-16
+calbg.org	-	2026-09-16
+capefearbg.org	-	2026-09-16
+cbgarden.org	-	2026-09-16
+cdri.org	-	2026-09-16
+chadwickarboretum.osu.edu	-	2026-09-16
+charlestown.org	https://charlestown.org/work-with-us/rfp
+chicagoparkdistrict.com	-	2026-09-16
+chippewanaturecenter.org	-	2026-09-16
+cityofchesapeake.net	https://cityofchesapeake.net/procurement
+clarkbotanic.org	-	2026-09-16
+coastal.edu	https://coastal.edu/procurement
+crosbyarboretum.msstate.edu	-	2026-09-16
+csulb.edu	-	2026-09-16
+dallasarboretum.org	-	2026-09-16
+dawesarb.org	-	2026-09-16
+delval.edu	-	2026-09-16
+descansogardens.org	-	2026-09-16
+dowgardens.org	-	2026-09-16
+drew.edu	-	2026-09-16
+drugmuseum.org	-	2026-09-16
+dyckarboretum.org	-	2026-09-16
+etsu.edu	-	2026-09-16
+fairviewcemetery1.com	-	2026-09-16
+fcgov.com	-	2026-09-16
+flamingogardens.org	-	2026-09-16
+floridastateparks.org	-	2026-09-16
+fpconservatory.org	-	2026-09-16
+fullertonarboretum.org	-	2026-09-16
+fwbg.org	-	2026-09-16
+gardenbythesea.org	-	2026-09-16
+gardens.duke.edu	-	2026-09-16
+garfieldgardensconservatory.org	-	2026-09-16
+garvangardens.org	-	2026-09-16
+geneseecountyparks.org	-	2026-09-16
+georgesonbotanicalgarden.org	-	2026-09-16
+gggp.org	-	2026-09-16
+ghprd.org	-	2026-09-16
+greenwoodgardens.org	-	2026-09-16
+hartmanprehistoricgarden.com	-	2026-09-16
+haverford.edu	-	2026-09-16
+hayesarboretum.org	-	2026-09-16
+hbg.org	-	2026-09-16
+hearthstonebotanicalgardens.org	-	2026-09-16
+heathcotebotanicalgardens.org	-	2026-09-16
+hersheygardens.org	-	2026-09-16
+hofstra.edu	-	2026-09-16
+holdenarb.org	-	2026-09-16
+hoytarboretum.org	-	2026-09-16
+hsvbg.org	https://hsvbg.org/rfp
+idahobotanicalgarden.org	-	2026-09-16
+illinoisaudubon.org	-	2026-09-16
+innisfreegarden.org	-	2026-09-16
+inniswood.org	-	2026-09-16
+internationalpeacegardens.org	-	2026-09-16
+jenkinsarboretum.org	-	2026-09-16
+jmu.edu	-	2026-09-16
+journeymuseum.org	-	2026-09-16
+juniperlevelbotanicgarden.org	-	2026-09-16
+kbgmaui.com	-	2026-09-16
+kruckeberg.org	-	2026-09-16
+ladewgardens.com	-	2026-09-16
+lakelandgov.net	https://lakelandgov.net/rfp
+lasgarden.org	-	2026-09-16
+leaferie.org	-	2026-09-16
+leconte-woodmanston.org	-	2026-09-16
+lincolnmemorialgarden.org	-	2026-09-16
+lombardlilactime.com	-	2026-09-16
+longuevue.com	-	2026-09-16
+lutherburbank.org	-	2026-09-16
+magnoliaplantation.com	-	2026-09-16
+mainegardens.org	-	2026-09-16
+manoa.hawaii.edu	-	2026-09-16
+mbgarden.org	-	2026-09-16
+mbgna.umich.edu	-	2026-09-16
+mcallen.net	https://mcallen.net/rfp
+mckeegarden.org	-	2026-09-16
+meadowburnfarm.com	-	2026-09-16
+mga.edu	https://mga.edu/procurement
+millergarden.org	-	2026-09-16
+minnetrista.net	-	2026-09-16
+missiongarden.org	-	2026-09-16
+missouribotanicalgarden.org	-	2026-09-16
+mnbg.org	-	2026-09-16
+montalto.psu.edu	-	2026-09-16
+montgomerybotanical.org	-	2026-09-16
+montgomeryparks.org	https://montgomeryparks.org/bids
+montrosegardens.org	-	2026-09-16
+moorefarmsbg.org	-	2026-09-16
+moortenbotanicalgarden.com	-	2026-09-16
+morikami.org	-	2026-09-16
+morrisparks.net	-	2026-09-16
+museum.utep.edu	-	2026-09-16
+my.spokanecity.org	-	2026-09-16
+nanimaugardens.com	-	2026-09-16
+naplesgarden.org	-	2026-09-16
+ncarboretum.org	-	2026-09-16
+ncbg.unc.edu	-	2026-09-16
+nhstateparks.org	-	2026-09-16
+norfolkbotanicalgarden.org	-	2026-09-16
+northlandarb.org	-	2026-09-16
+ntbg.org	https://ntbg.org/rfp
+nvrpa.org	https://nvrpa.org/request-for-proposals
+nwmissouri.edu	-	2026-09-16
+nysaes.cals.cornell.edu	-	2026-09-16
+omahabotanicalgardens.org	-	2026-09-16
+pct3.com	-	2026-09-16
+peacegarden.com	-	2026-09-16
+phipps.conservatory.org	-	2026-09-16
+pittsburghbotanicgarden.org	-	2026-09-16
+pollyhillarboretum.org	-	2026-09-16
+potawatomiconservatories.org	-	2026-09-16
+powellgardens.org	-	2026-09-16
+presbyirisgardens.org	-	2026-09-16
+psbehrend.psu.edu	-	2026-09-16
+pslbg.org	-	2026-09-16
+publicgardens.org	https://publicgardens.org/rfp
+queensbotanical.org	https://queensbotanical.org/rfp
+readingpublicmuseum.org	-	2026-09-16
+reflectionriding.org	-	2026-09-16
+reimangardens.com	-	2026-09-16
+rogersonclematiscollection.org	-	2026-09-16
+rose.org	-	2026-09-16
+rutgersgardens.rutgers.edu	-	2026-09-16
+ruthmottfoundation.org	-	2026-09-16
+sabot.org	-	2026-09-16
+santafebotanicalgarden.org	-	2026-09-16
+savannahbotanical.org	-	2026-09-16
+sbbg.org	-	2026-09-16
+sc.edu	-	2026-09-16
+schedel-gardens.org	-	2026-09-16
+scottarboretum.org	-	2026-09-16
+sdbgarden.org	-	2026-09-16
+secrest.osu.edu	-	2026-09-16
+selby.org	-	2026-09-16
+sfbg.org	-	2026-09-16
+sgvbg.org	-	2026-09-16
+shangrilagardens.org	-	2026-09-16
+shenandoahmuseum.org	-	2026-09-16
+sites.gsu.edu	-	2026-09-16
+siue.edu	-	2026-09-16
+smith.edu	-	2026-09-16
+snug-harbor.org	-	2026-09-16
+springfieldparks.org	-	2026-09-16
+springgrove.org	-	2026-09-16
+steinlodge.com	-	2026-09-16
+stpete.org	https://stpete.org/rfp
+stxbot.org	-	2026-09-16
+taltree.org	-	2026-09-16
+thanksgivingpoint.org	-	2026-09-16
+thebrentonarboretum.org	-	2026-09-16
+thedch.org	-	2026-09-16
+thegardens.org	-	2026-09-16
+thejapanesegarden.com	-	2026-09-16
+threeriversparks.org	-	2026-09-16
+tohonochul.org	-	2026-09-16
+towerhillbg.org	-	2026-09-16
+treehill.org	-	2026-09-16
+tucsonbotanical.org	-	2026-09-16
+tulsabotanic.org	-	2026-09-16
+tylerarboretum.org	-	2026-09-16
+untermyergardens.org	-	2026-09-16
+uwarboretum.org	-	2026-09-16
+vanderbrohearboretum.org	-	2026-09-16
+volunteerparkconservatory.org	-	2026-09-16
+waimeavalley.net	-	2026-09-16
+wavehill.org	-	2026-09-16
+wildflower.org	-	2026-09-16
+williamsburgbotanicalgarden.org	-	2026-09-16
+wkbg.org	-	2026-09-16
+woodlandcemetery.org	-	2026-09-16
+zilkergarden.org	-	2026-09-16
 
 # wikidata libraries
-aada.edu
-abac.edu
-about.slcpl.org
-academia.edu
-acl.tlcdelivers.com
-acu.edu
-africana.library.cornell.edu
-agnesscott.edu
-albanytech.edu
-albionlibrary.org
-alcorn.edu
-alexandrianpl.org
-allenuniversity.edu
-alpenalibrary.org
-amesfreelibrary.org
-amplibrary.wvwc.edu
-anaheim.net
-anderson.ucla.edu
-andersonart.org
-andrewcollege.edu
-andrews.edu
-antiochcollege.libguides.com
-apple.com
-arapahoe.edu
-arapahoelibraries.org
-archive.hshsl.umaryland.edu
-arcmusic.org
-arcola.lib.il.us
-arkansasbaptist.edu
-art.uga.edu
-artsinputnam.org
-arxiv.org
-ashbylibrary.org
-ashland.edu
-assistanceleague.org
-asteria.fivecolleges.edu
-asurams.edu
-atheists.org
-athens.edu
-athenslibrary.org
-atlantatech.edu
-atlm.edu
-atmorepubliclibrary.com
-auctr.edu
-audiolibrary.com.co
-augusta.edu
-augustatech.edu
-aurorapubliclibrary.org
-avemaria.edu
-babson.edu
-bankstreet.edu
-barringtonarealibrary.org
-baruch.cuny.edu
-bates.edu
-baus.org
-bayardtaylor.org
-baylor.edu
-baynelibrary.org
-bbcomerlibrary.net
-bc.edu
-bcc-libweb.bcc.cuny.edu
-bcc.cuny.edu
-bcls.lib.nj.us
-beavertonlibrary.org
-becker.wustl.edu
-beinecke.library.yale.edu
-beldingmemoriallibrary.org
-bellinghampubliclibrary.org
-belmontabbeycollege.edu
-ben.productplacement.com
-benedict.edu
-bennett.edu
-bentley.umich.edu
-berkeley.edu
-berkeleypubliclibrary.org
-berlinpeck.org
-berry.edu
-beulah.edu
-bgc.bard.edu
-bgsu.edu
-biblio.csusm.edu
-bibliotecaponce.wordpress.com
-bibliotech.memphis.edu
-biblos.lamar.edu
-billericalibrary.org
-binghamton.edu
-biodiversitylibrary.org
-biorxiv.org
-bishop.edu
-bluefieldstate.edu
-boscawenpubliclibrary.org
-bowiestate.edu
-bpc.edu
-bridgemanart.com
-bridgemanimages.com
-brockport.edu
-brookdalehospital.org
-bsu.edu
-btrl.net
-bu.edu
-bus.umich.edu
-business.library.emory.edu
-butler.edu
-cabe.ent.sirsi.net
-californiarevealed.org
-cals.org
-calstatela.edu
-carmelclaylibrary.org
-carnegie.lib.oh.us
-carnegiecarnegie.org
-carnegielibrary.org
-cartoons.osu.edu
-carylibrary.org
-catherwood.library.cornell.edu
-ccel.org
-ccga.edu
-cdlib.org
-cdnc.ucr.edu
-cdr.lib.unc.edu
-centralgatech.edu
-centralstate.edu
-chattahoocheetech.edu
-chattlibrary.org
-cheyney.edu
-chicopeepubliclibrary.org
-cim.edu
-cityofsitka.com
-claflin.edu
-clapplibrary.org
-clarklibrary.ucla.edu
-clarku.edu
-clayton.edu
-clements.umich.edu
-clicweb.org
-clintoncollege.libguides.com
-clkschools.org
-clockss.org
-coahomacc.edu
-coalliance.org
-coloradocollege.edu
-coloradomesa.edu
-coltonareamuseum.com
-columbustech.edu
-comlib.org
-concord.edu
-concordlibrary.org
-congregationallibrary.org
-conncoll.edu
-consortiumlibrary.org
-coppin.edu
-countway.harvard.edu
-craftmemorial.lib.wv.us
-crcds.edu
-creighton.edu
-csl.edu
-csssi.yale.edu
-csupueblo.edu
-csusb.edu
-ctsfw.edu
-ctsnet.edu
-ctstatelibrary.org
-cumberlandcountylibraries.org
-cuny.edu
-curtis.edu
-cushing.library.tamu.edu
-cylinders.library.ucsb.edu
-dalnet.org
-daltonstate.edu
-danburylibrary.org
-danverslibrary.org
-darden.virginia.edu
-dartmouth.edu
-datapages.com
-dclibrary.org
-dekalblibrary.org
-delaware.contentdm.oclc.org
-dentistry.iu.edu
-denverlibrary.org
-depts.ttu.edu
-desototrail.org
-desu.edu
-digital.library.txstate.edu
-digitaladarchive.com
-digitalcollections.lib.uh.edu
-digitalcommons.buffalostate.edu
-digitalcommons.library.umaine.edu
-digitalcommons.unl.edu
-digitallibrary.usc.edu
-digitaltransgenderarchive.net
-dillard.edu
-dl.lib.brown.edu
-docsouth.unc.edu
-dos.myflorida.com
-dospace.org
-drum.lib.umd.edu
-dstc.cc.al.us
-dtc-wsuv.org
-dublincarnegie.com
-duq.edu
-e-zing.net
-eapld.org
-eastgreenbushlibrary.org
-ec.edu
-ecsu.edu
-ega.libguides.com
-eisenhowerlibrary.org
-elibrary.point.edu
-elibrary.unm.edu
-elon.edu
-elpasolibrary.org
-emich.edu
-enid.org
-epl.org
-epls.org
-esm.rochester.edu
-evergreen.edu
-exhibitions.lib.umd.edu
-exlibris.colgate.edu
-fac.coloradocollege.edu
-fairfield.lib.ia.us
-famu.edu
-faylib.org
-fcarlsonlib.org
-ferguson.lib.mo.us
-fisk.edu
-flbog.org
-flickr.com
-flowermemoriallibrary.org
-flushinghospital.org
-forbeslibrary.org
-fordham.edu
-fortlewis.edu
-fresnostate.edu
-frick.org
-fultonhistory.com
-fvsu.edu
-galileo.usg.edu
-galter.northwestern.edu
-gannmuseum.com
-gcuniv.edu
-genealogybank.com
-geneseo.edu
-geneva.edu
-geodil.dperkins.org
-georgefox.edu
-gerberhart.org
-getlibraryhelp.highlands.edu
-ggc.edu
-ghi-dc.org
-glenville.edu
-gmcga.libguides.com
-go.hssu.edu
-goffstownlibrary.com
-gonzaga.edu
-gordonstate.edu
-goshen.edu
-goshenpl.lib.in.us
-govst.edu
-gptc.edu
-graftonlibrary.org
-gram.edu
-great78.archive.org
-grpl.org
-gsw.edu
-gtclibrary.libguides.com
-gtu.edu
-guides.aclibrary.org
-guides.hostos.cuny.edu
-guides.lib.utexas.edu
-guides.lib.virginia.edu
-guides.library.ucsc.edu
-guides.sju.edu
-gustavus.edu
-guttman.cuny.edu
-gvsu.edu
-haineslibrary.org
-hamilton.edu
-hanover.edu
-hartford.edu
-hathitrust.org
-hawkeslibrary.blogspot.com
-hcl.harvard.edu
-hclib.org
-health.library.emory.edu
-hebrewbooks.org
-helenamuseum.com
-helenefuld.edu
-herrickdl.org
-hispanicsociety.org
-history.churchofjesuschrist.org
-history.denverlibrary.org
-historycenterslo.org
-hlg.edu
-hmcpl.org
-hmml.org
-homesteadlibrary.org
-hoover.org
-houstonlibrary.org
-hplct.org
-hrc.utexas.edu
-hsl.osu.edu
-hsl.uw.edu
-hsp.org
-hss.edu
-htu.edu
-hubbardstonpubliclibrary.org
-huh.harvard.edu
-humanrights.uconn.edu
-humboldtpubliclibrary.com
-huntbotanical.org
-huntington.edu
-huntingtonfreelibrary.org
-huntlibrary.erau.edu
-industrydocuments.ucsf.edu
-indypl.org
-info.ecu.edu
-iplks.org
-irle.ucla.edu
-ironrail.org
-isaw.nyu.edu
-iup.edu
-iupuc.edu
-iwu.edu
-janlibrary.org
-jefflibrary.org
-jemezpueblo.org
-jewishvirtuallibrary.org
-jimgatchell.com
-johnjermain.org
-johnmarshall.libguides.com
-johnsoncountypubliclibrary.org
-juilliard.edu
-juniata.edu
-karpeles.com
-kclibrary.org
-kdl.org
-kentfreelibrary.org
-knoxlib.org
-krls.org
-kslib.info
-kysu.edu
-lagrange.edu
-lane.stanford.edu
-lanecollege.edu
-langston.edu
-laniertech.edu
-lapl.org
-latahlibrary.org
-law.berkeley.edu
-law.columbia.edu
-law.nyu.edu
-law.suffolk.edu
-law.ucla.edu
-law.uga.edu
-law.wm.edu
-lawlibrary.colorado.edu
-lawsonstate.edu
-lbrls.org
-lclshome.org
-lebanonlibrary.org
-leesburgva.com
-lehman.edu
-lemars.lib.ia.us
-lenawee.lib.mi.us
-lfpl.org
-lib.alasu.edu
-lib.asu.edu
-lib.auburn.edu
-lib.berkeley.edu
-lib.colostate.edu
-lib.cwu.edu
-lib.d.umn.edu
-lib.fsu.edu
-lib.hamptonu.edu
-lib.iastate.edu
-lib.jjay.cuny.edu
-lib.jmu.edu
-lib.k-state.edu
-lib.ku.edu
-lib.lsu.edu
-lib.manhattan.edu
-lib.montana.edu
-lib.msu.edu
-lib.muohio.edu
-lib.murraystate.edu
-lib.ncsu.edu
-lib.purdue.edu
-lib.rowan.edu
-lib.stmarytx.edu
-lib.ua.edu
-lib.uchicago.edu
-lib.uci.edu
-lib.uconn.edu
-lib.uidaho.edu
-lib.uiowa.edu
-lib.umd.edu
-lib.umich.edu
-lib.umn.edu
-lib.usf.edu
-lib.utah.edu
-lib.utexas.edu
-lib.utk.edu
-lib.utsa.edu
-lib.uw.edu
-lib.vt.edu
-lib.washington.edu
-libguides.bc.edu
-libguides.bethanywv.edu
-libguides.brooklyn.cuny.edu
-libguides.bw.edu
-libguides.ccsdetroit.edu
-libguides.coastalpines.edu
-libguides.covenant.edu
-libguides.ecsu.edu
-libguides.grace.edu
-libguides.hindscc.edu
-libguides.niu.edu
-libguides.northgatech.edu
-libguides.okcu.edu
-libguides.uncfsu.edu
-libguides.uno.edu
-libguides.washjeff.edu
-libguides.wcsu.edu
-libguides.wju.edu
-libmma.org
-libraopen.lib.virginia.edu
-libraries.adelphi.edu
-libraries.catholic.edu
-libraries.clemson.edu
-libraries.emory.edu
-libraries.fiu.edu
-libraries.luc.edu
-libraries.mercer.edu
-libraries.mit.edu
-libraries.msstate.edu
-libraries.oberlin.edu
-libraries.olemiss.edu
-libraries.ou.edu
-libraries.psu.edu
-libraries.rutgers.edu
-libraries.slu.edu
-libraries.smith.edu
-libraries.uc.edu
-libraries.uh.edu
-libraries.uky.edu
-libraries.unl.edu
-libraries.usc.edu
-libraries.uta.edu
-libraries.utulsa.edu
-libraries.wm.edu
-libraries.wsu.edu
-libraries.wvu.edu
-library.albany.edu
-library.appstate.edu
-library.arbor.edu
-library.athenstech.edu
-library.auraria.edu
-library.barnard.edu
-library.baruch.cuny.edu
-library.bc.edu
+aada.edu	-	2026-09-16
+abac.edu	-	2026-09-16
+about.slcpl.org	https://about.slcpl.org/rfp
+academia.edu	-	2026-09-16
+acl.tlcdelivers.com	-	2026-09-16
+acu.edu	-	2026-09-16
+africana.library.cornell.edu	-	2026-09-16
+agnesscott.edu	-	2026-09-16
+albanytech.edu	-	2026-09-16
+albionlibrary.org	-	2026-09-16
+alcorn.edu	https://alcorn.edu/bids
+alexandrianpl.org	-	2026-09-16
+allenuniversity.edu	-	2026-09-16
+alpenalibrary.org	-	2026-09-16
+amesfreelibrary.org	-	2026-09-16
+amplibrary.wvwc.edu	-	2026-09-16
+anaheim.net	https://anaheim.net/procurement
+anderson.ucla.edu	-	2026-09-16
+andersonart.org	-	2026-09-16
+andrewcollege.edu	-	2026-09-16
+andrews.edu	-	2026-09-16
+antiochcollege.libguides.com	-	2026-09-16
+apple.com	-	2026-09-16
+arapahoe.edu	-	2026-09-16
+arapahoelibraries.org	-	2026-09-16
+archive.hshsl.umaryland.edu	-	2026-09-16
+arcmusic.org	-	2026-09-16
+arcola.lib.il.us	-	2026-09-16
+arkansasbaptist.edu	-	2026-09-16
+art.uga.edu	-	2026-09-16
+artsinputnam.org	-	2026-09-16
+arxiv.org	-	2026-09-16
+ashbylibrary.org	-	2026-09-16
+ashland.edu	-	2026-09-16
+assistanceleague.org	-	2026-09-16
+asteria.fivecolleges.edu	-	2026-09-16
+asurams.edu	-	2026-09-16
+atheists.org	-	2026-09-16
+athens.edu	-	2026-09-16
+athenslibrary.org	https://athenslibrary.org/rfp
+atlantatech.edu	-	2026-09-16
+atlm.edu	-	2026-09-16
+atmorepubliclibrary.com	-	2026-09-16
+auctr.edu	-	2026-09-16
+audiolibrary.com.co	-	2026-09-16
+augusta.edu	-	2026-09-16
+augustatech.edu	-	2026-09-16
+aurorapubliclibrary.org	https://aurorapubliclibrary.org/bids
+avemaria.edu	-	2026-09-16
+babson.edu	-	2026-09-16
+bankstreet.edu	-	2026-09-16
+barringtonarealibrary.org	-	2026-09-16
+baruch.cuny.edu	-	2026-09-16
+bates.edu	-	2026-09-16
+baus.org	-	2026-09-16
+bayardtaylor.org	-	2026-09-16
+baylor.edu	-	2026-09-16
+baynelibrary.org	-	2026-09-16
+bbcomerlibrary.net	-	2026-09-16
+bc.edu	-	2026-09-16
+bcc-libweb.bcc.cuny.edu	-	2026-09-16
+bcc.cuny.edu	-	2026-09-16
+bcls.lib.nj.us	-	2026-09-16
+beavertonlibrary.org	-	2026-09-16
+becker.wustl.edu	-	2026-09-16
+beinecke.library.yale.edu	-	2026-09-16
+beldingmemoriallibrary.org	-	2026-09-16
+bellinghampubliclibrary.org	-	2026-09-16
+belmontabbeycollege.edu	-	2026-09-16
+ben.productplacement.com	-	2026-09-16
+benedict.edu	-	2026-09-16
+bennett.edu	-	2026-09-16
+bentley.umich.edu	-	2026-09-16
+berkeley.edu	-	2026-09-16
+berkeleypubliclibrary.org	-	2026-09-16
+berlinpeck.org	-	2026-09-16
+berry.edu	-	2026-09-16
+beulah.edu	-	2026-09-16
+bgc.bard.edu	-	2026-09-16
+bgsu.edu	-	2026-09-16
+biblio.csusm.edu	-	2026-09-16
+bibliotecaponce.wordpress.com	-	2026-09-16
+bibliotech.memphis.edu	-	2026-09-16
+biblos.lamar.edu	-	2026-09-16
+billericalibrary.org	-	2026-09-16
+binghamton.edu	-	2026-09-16
+biodiversitylibrary.org	-	2026-09-16
+biorxiv.org	-	2026-09-16
+bishop.edu	-	2026-09-16
+bluefieldstate.edu	-	2026-09-16
+boscawenpubliclibrary.org	-	2026-09-16
+bowiestate.edu	-	2026-09-16
+bpc.edu	-	2026-09-16
+bridgemanart.com	-	2026-09-16
+bridgemanimages.com	-	2026-09-16
+brockport.edu	-	2026-09-16
+brookdalehospital.org	-	2026-09-16
+bsu.edu	-	2026-09-16
+btrl.net	-	2026-09-16
+bu.edu	-	2026-09-16
+bus.umich.edu	-	2026-09-16
+business.library.emory.edu	-	2026-09-16
+butler.edu	-	2026-09-16
+cabe.ent.sirsi.net	-	2026-09-16
+californiarevealed.org	https://californiarevealed.org/rfp
+cals.org	-	2026-09-16
+calstatela.edu	-	2026-09-16
+carmelclaylibrary.org	https://carmelclaylibrary.org/rfp
+carnegie.lib.oh.us	-	2026-09-16
+carnegiecarnegie.org	-	2026-09-16
+carnegielibrary.org	-	2026-09-16
+cartoons.osu.edu	-	2026-09-16
+carylibrary.org	-	2026-09-16
+catherwood.library.cornell.edu	-	2026-09-16
+ccel.org	-	2026-09-16
+ccga.edu	-	2026-09-16
+cdlib.org	-	2026-09-16
+cdnc.ucr.edu	-	2026-09-16
+cdr.lib.unc.edu	-	2026-09-16
+centralgatech.edu	-	2026-09-16
+centralstate.edu	-	2026-09-16
+chattahoocheetech.edu	-	2026-09-16
+chattlibrary.org	-	2026-09-16
+cheyney.edu	https://cheyney.edu/procurement
+chicopeepubliclibrary.org	-	2026-09-16
+cim.edu	-	2026-09-16
+cityofsitka.com	-	2026-09-16
+claflin.edu	-	2026-09-16
+clapplibrary.org	-	2026-09-16
+clarklibrary.ucla.edu	-	2026-09-16
+clarku.edu	-	2026-09-16
+clayton.edu	https://clayton.edu/procurement
+clements.umich.edu	-	2026-09-16
+clicweb.org	-	2026-09-16
+clintoncollege.libguides.com	-	2026-09-16
+clkschools.org	-	2026-09-16
+clockss.org	-	2026-09-16
+coahomacc.edu	-	2026-09-16
+coalliance.org	-	2026-09-16
+coloradocollege.edu	-	2026-09-16
+coloradomesa.edu	-	2026-09-16
+coltonareamuseum.com	https://coltonareamuseum.com/rfp
+columbustech.edu	-	2026-09-16
+comlib.org	-	2026-09-16
+concord.edu	https://concord.edu/rfp
+concordlibrary.org	-	2026-09-16
+congregationallibrary.org	-	2026-09-16
+conncoll.edu	-	2026-09-16
+consortiumlibrary.org	-	2026-09-16
+coppin.edu	-	2026-09-16
+countway.harvard.edu	-	2026-09-16
+craftmemorial.lib.wv.us	-	2026-09-16
+crcds.edu	-	2026-09-16
+creighton.edu	-	2026-09-16
+csl.edu	-	2026-09-16
+csssi.yale.edu	-	2026-09-16
+csupueblo.edu	-	2026-09-16
+csusb.edu	-	2026-09-16
+ctsfw.edu	-	2026-09-16
+ctsnet.edu	-	2026-09-16
+ctstatelibrary.org	-	2026-09-16
+cumberlandcountylibraries.org	-	2026-09-16
+cuny.edu	https://cuny.edu/rfp
+curtis.edu	-	2026-09-16
+cushing.library.tamu.edu	-	2026-09-16
+cylinders.library.ucsb.edu	-	2026-09-16
+dalnet.org	-	2026-09-16
+daltonstate.edu	-	2026-09-16
+danburylibrary.org	-	2026-09-16
+danverslibrary.org	-	2026-09-16
+darden.virginia.edu	-	2026-09-16
+dartmouth.edu	-	2026-09-16
+datapages.com	-	2026-09-16
+dclibrary.org	-	2026-09-16
+dekalblibrary.org	-	2026-09-16
+delaware.contentdm.oclc.org	-	2026-09-16
+dentistry.iu.edu	-	2026-09-16
+denverlibrary.org	https://denverlibrary.org/rfp
+depts.ttu.edu	-	2026-09-16
+desototrail.org	-	2026-09-16
+desu.edu	-	2026-09-16
+digital.library.txstate.edu	-	2026-09-16
+digitaladarchive.com	-	2026-09-16
+digitalcollections.lib.uh.edu	-	2026-09-16
+digitalcommons.buffalostate.edu	-	2026-09-16
+digitalcommons.library.umaine.edu	-	2026-09-16
+digitalcommons.unl.edu	-	2026-09-16
+digitallibrary.usc.edu	-	2026-09-16
+digitaltransgenderarchive.net	-	2026-09-16
+dillard.edu	-	2026-09-16
+dl.lib.brown.edu	-	2026-09-16
+docsouth.unc.edu	-	2026-09-16
+dos.myflorida.com	-	2026-09-16
+dospace.org	-	2026-09-16
+drum.lib.umd.edu	-	2026-09-16
+dstc.cc.al.us	-	2026-09-16
+dtc-wsuv.org	-	2026-09-16
+dublincarnegie.com	-	2026-09-16
+duq.edu	-	2026-09-16
+e-zing.net	-	2026-09-16
+eapld.org	-	2026-09-16
+eastgreenbushlibrary.org	-	2026-09-16
+ec.edu	-	2026-09-16
+ecsu.edu	-	2026-09-16
+ega.libguides.com	-	2026-09-16
+eisenhowerlibrary.org	-	2026-09-16
+elibrary.point.edu	-	2026-09-16
+elibrary.unm.edu	-	2026-09-16
+elon.edu	-	2026-09-16
+elpasolibrary.org	-	2026-09-16
+emich.edu	-	2026-09-16
+enid.org	https://enid.org/rfp
+epl.org	-	2026-09-16
+epls.org	-	2026-09-16
+esm.rochester.edu	-	2026-09-16
+evergreen.edu	-	2026-09-16
+exhibitions.lib.umd.edu	-	2026-09-16
+exlibris.colgate.edu	-	2026-09-16
+fac.coloradocollege.edu	-	2026-09-16
+fairfield.lib.ia.us	-	2026-09-16
+famu.edu	-	2026-09-16
+faylib.org	-	2026-09-16
+fcarlsonlib.org	-	2026-09-16
+ferguson.lib.mo.us	-	2026-09-16
+fisk.edu	-	2026-09-16
+flbog.org	https://flbog.org/rfp
+flickr.com	-	2026-09-16
+flowermemoriallibrary.org	-	2026-09-16
+flushinghospital.org	-	2026-09-16
+forbeslibrary.org	-	2026-09-16
+fordham.edu	-	2026-09-16
+fortlewis.edu	-	2026-09-16
+fresnostate.edu	-	2026-09-16
+frick.org	-	2026-09-16
+fultonhistory.com	-	2026-09-16
+fvsu.edu	-	2026-09-16
+galileo.usg.edu	-	2026-09-16
+galter.northwestern.edu	-	2026-09-16
+gannmuseum.com	-	2026-09-16
+gcuniv.edu	https://gcuniv.edu/rfp
+genealogybank.com	-	2026-09-16
+geneseo.edu	-	2026-09-16
+geneva.edu	-	2026-09-16
+geodil.dperkins.org	-	2026-09-16
+georgefox.edu	-	2026-09-16
+gerberhart.org	-	2026-09-16
+getlibraryhelp.highlands.edu	-	2026-09-16
+ggc.edu	-	2026-09-16
+ghi-dc.org	-	2026-09-16
+glenville.edu	-	2026-09-16
+gmcga.libguides.com	-	2026-09-16
+go.hssu.edu	-	2026-09-16
+goffstownlibrary.com	-	2026-09-16
+gonzaga.edu	-	2026-09-16
+gordonstate.edu	-	2026-09-16
+goshen.edu	-	2026-09-16
+goshenpl.lib.in.us	-	2026-09-16
+govst.edu	-	2026-09-16
+gptc.edu	-	2026-09-16
+graftonlibrary.org	-	2026-09-16
+gram.edu	-	2026-09-16
+great78.archive.org	-	2026-09-16
+grpl.org	-	2026-09-16
+gsw.edu	-	2026-09-16
+gtclibrary.libguides.com	-	2026-09-16
+gtu.edu	-	2026-09-16
+guides.aclibrary.org	-	2026-09-16
+guides.hostos.cuny.edu	-	2026-09-16
+guides.lib.utexas.edu	-	2026-09-16
+guides.lib.virginia.edu	-	2026-09-16
+guides.library.ucsc.edu	-	2026-09-16
+guides.sju.edu	-	2026-09-16
+gustavus.edu	-	2026-09-16
+guttman.cuny.edu	-	2026-09-16
+gvsu.edu	-	2026-09-16
+haineslibrary.org	-	2026-09-16
+hamilton.edu	-	2026-09-16
+hanover.edu	-	2026-09-16
+hartford.edu	https://hartford.edu/procurement
+hathitrust.org	-	2026-09-16
+hawkeslibrary.blogspot.com	-	2026-09-16
+hcl.harvard.edu	-	2026-09-16
+hclib.org	-	2026-09-16
+health.library.emory.edu	-	2026-09-16
+hebrewbooks.org	-	2026-09-16
+helenamuseum.com	-	2026-09-16
+helenefuld.edu	-	2026-09-16
+herrickdl.org	https://herrickdl.org/request-for-proposals
+hispanicsociety.org	-	2026-09-16
+history.churchofjesuschrist.org	-	2026-09-16
+history.denverlibrary.org	-	2026-09-16
+historycenterslo.org	-	2026-09-16
+hlg.edu	-	2026-09-16
+hmcpl.org	https://hmcpl.org/rfp
+hmml.org	-	2026-09-16
+homesteadlibrary.org	-	2026-09-16
+hoover.org	-	2026-09-16
+houstonlibrary.org	-	2026-09-16
+hplct.org	-	2026-09-16
+hrc.utexas.edu	-	2026-09-16
+hsl.osu.edu	-	2026-09-16
+hsl.uw.edu	-	2026-09-16
+hsp.org	-	2026-09-16
+hss.edu	-	2026-09-16
+htu.edu	-	2026-09-16
+hubbardstonpubliclibrary.org	-	2026-09-16
+huh.harvard.edu	-	2026-09-16
+humanrights.uconn.edu	-	2026-09-16
+humboldtpubliclibrary.com	-	2026-09-16
+huntbotanical.org	-	2026-09-16
+huntington.edu	-	2026-09-16
+huntingtonfreelibrary.org	-	2026-09-16
+huntlibrary.erau.edu	-	2026-09-16
+industrydocuments.ucsf.edu	-	2026-09-16
+indypl.org	https://indypl.org/vendor-opportunities
+info.ecu.edu	-	2026-09-16
+iplks.org	-	2026-09-16
+irle.ucla.edu	-	2026-09-16
+ironrail.org	-	2026-09-16
+isaw.nyu.edu	-	2026-09-16
+iup.edu	https://iup.edu/procurement
+iupuc.edu	-	2026-09-16
+iwu.edu	-	2026-09-16
+janlibrary.org	-	2026-09-16
+jefflibrary.org	https://jefflibrary.org/request-for-proposals
+jemezpueblo.org	-	2026-09-16
+jewishvirtuallibrary.org	https://jewishvirtuallibrary.org/rfp
+jimgatchell.com	-	2026-09-16
+johnjermain.org	-	2026-09-16
+johnmarshall.libguides.com	-	2026-09-16
+johnsoncountypubliclibrary.org	-	2026-09-16
+juilliard.edu	-	2026-09-16
+juniata.edu	-	2026-09-16
+karpeles.com	-	2026-09-16
+kclibrary.org	https://kclibrary.org/rfp
+kdl.org	https://kdl.org/rfp
+kentfreelibrary.org	-	2026-09-16
+knoxlib.org	-	2026-09-16
+krls.org	-	2026-09-16
+kslib.info	-	2026-09-16
+kysu.edu	-	2026-09-16
+lagrange.edu	-	2026-09-16
+lane.stanford.edu	-	2026-09-16
+lanecollege.edu	-	2026-09-16
+langston.edu	-	2026-09-16
+laniertech.edu	-	2026-09-16
+lapl.org	-	2026-09-16
+latahlibrary.org	-	2026-09-16
+law.berkeley.edu	https://law.berkeley.edu/rfp
+law.columbia.edu	-	2026-09-16
+law.nyu.edu	-	2026-09-16
+law.suffolk.edu	-	2026-09-16
+law.ucla.edu	-	2026-09-16
+law.uga.edu	-	2026-09-16
+law.wm.edu	-	2026-09-16
+lawlibrary.colorado.edu	-	2026-09-16
+lawsonstate.edu	-	2026-09-16
+lbrls.org	-	2026-09-16
+lclshome.org	https://lclshome.org/rfp
+lebanonlibrary.org	-	2026-09-16
+leesburgva.com	-	2026-09-16
+lehman.edu	-	2026-09-16
+lemars.lib.ia.us	-	2026-09-16
+lenawee.lib.mi.us	-	2026-09-16
+lfpl.org	-	2026-09-16
+lib.alasu.edu	-	2026-09-16
+lib.asu.edu	-	2026-09-16
+lib.auburn.edu	-	2026-09-16
+lib.berkeley.edu	-	2026-09-16
+lib.colostate.edu	-	2026-09-16
+lib.cwu.edu	-	2026-09-16
+lib.d.umn.edu	-	2026-09-16
+lib.fsu.edu	-	2026-09-16
+lib.hamptonu.edu	-	2026-09-16
+lib.iastate.edu	-	2026-09-16
+lib.jjay.cuny.edu	-	2026-09-16
+lib.jmu.edu	-	2026-09-16
+lib.k-state.edu	-	2026-09-16
+lib.ku.edu	-	2026-09-16
+lib.lsu.edu	-	2026-09-16
+lib.manhattan.edu	-	2026-09-16
+lib.montana.edu	-	2026-09-16
+lib.msu.edu	-	2026-09-16
+lib.muohio.edu	-	2026-09-16
+lib.murraystate.edu	-	2026-09-16
+lib.ncsu.edu	-	2026-09-16
+lib.purdue.edu	-	2026-09-16
+lib.rowan.edu	-	2026-09-16
+lib.stmarytx.edu	-	2026-09-16
+lib.ua.edu	-	2026-09-16
+lib.uchicago.edu	https://lib.uchicago.edu/rfp
+lib.uci.edu	-	2026-09-16
+lib.uconn.edu	-	2026-09-16
+lib.uidaho.edu	-	2026-09-16
+lib.uiowa.edu	-	2026-09-16
+lib.umd.edu	-	2026-09-16
+lib.umich.edu	-	2026-09-16
+lib.umn.edu	-	2026-09-16
+lib.usf.edu	-	2026-09-16
+lib.utah.edu	-	2026-09-16
+lib.utexas.edu	-	2026-09-16
+lib.utk.edu	-	2026-09-16
+lib.utsa.edu	-	2026-09-16
+lib.uw.edu	-	2026-09-16
+lib.vt.edu	-	2026-09-16
+lib.washington.edu	-	2026-09-16
+libguides.bc.edu	-	2026-09-16
+libguides.bethanywv.edu	-	2026-09-16
+libguides.brooklyn.cuny.edu	-	2026-09-16
+libguides.bw.edu	-	2026-09-16
+libguides.ccsdetroit.edu	-	2026-09-16
+libguides.coastalpines.edu	-	2026-09-16
+libguides.covenant.edu	-	2026-09-16
+libguides.ecsu.edu	-	2026-09-16
+libguides.grace.edu	-	2026-09-16
+libguides.hindscc.edu	-	2026-09-16
+libguides.niu.edu	-	2026-09-16
+libguides.northgatech.edu	-	2026-09-16
+libguides.okcu.edu	-	2026-09-16
+libguides.uncfsu.edu	-	2026-09-16
+libguides.uno.edu	-	2026-09-16
+libguides.washjeff.edu	-	2026-09-16
+libguides.wcsu.edu	-	2026-09-16
+libguides.wju.edu	-	2026-09-16
+libmma.org	-	2026-09-16
+libraopen.lib.virginia.edu	-	2026-09-16
+libraries.adelphi.edu	-	2026-09-16
+libraries.catholic.edu	-	2026-09-16
+libraries.clemson.edu	-	2026-09-16
+libraries.emory.edu	-	2026-09-16
+libraries.fiu.edu	-	2026-09-16
+libraries.luc.edu	-	2026-09-16
+libraries.mercer.edu	-	2026-09-16
+libraries.mit.edu	-	2026-09-16
+libraries.msstate.edu	-	2026-09-16
+libraries.oberlin.edu	-	2026-09-16
+libraries.olemiss.edu	-	2026-09-16
+libraries.ou.edu	-	2026-09-16
+libraries.psu.edu	-	2026-09-16
+libraries.rutgers.edu	-	2026-09-16
+libraries.slu.edu	-	2026-09-16
+libraries.smith.edu	-	2026-09-16
+libraries.uc.edu	-	2026-09-16
+libraries.uh.edu	-	2026-09-16
+libraries.uky.edu	-	2026-09-16
+libraries.unl.edu	-	2026-09-16
+libraries.usc.edu	-	2026-09-16
+libraries.uta.edu	-	2026-09-16
+libraries.utulsa.edu	-	2026-09-16
+libraries.wm.edu	-	2026-09-16
+libraries.wsu.edu	-	2026-09-16
+libraries.wvu.edu	-	2026-09-16
+library.albany.edu	-	2026-09-16
+library.appstate.edu	-	2026-09-16
+library.arbor.edu	-	2026-09-16
+library.athenstech.edu	-	2026-09-16
+library.auraria.edu	-	2026-09-16
+library.barnard.edu	-	2026-09-16
+library.baruch.cuny.edu	-	2026-09-16
+library.bc.edu	-	2026-09-16
 library.bowdoin.edu
 library.brenau.edu
 library.brooklyn.cuny.edu
