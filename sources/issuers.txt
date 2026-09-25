@@ -4796,32 +4796,32 @@ library.auraria.edu	-	2026-09-16
 library.barnard.edu	-	2026-09-16
 library.baruch.cuny.edu	-	2026-09-16
 library.bc.edu	-	2026-09-16
-library.bowdoin.edu
-library.brenau.edu
-library.brooklyn.cuny.edu
-library.brown.edu
-library.bsc.edu
-library.buffalo.edu
-library.buffalostate.edu
-library.calpoly.edu
-library.caltech.edu
-library.calvin.edu
-library.case.edu
-library.ccny.cuny.edu
-library.charlotte.edu
-library.citytech.cuny.edu
-library.claremont.edu
-library.cmu.edu
-library.columbia.edu
-library.columbusstate.edu
-library.cornell.edu
-library.csuchico.edu
-library.csueastbay.edu
-library.csun.edu
-library.csus.edu
-library.csustan.edu
-library.cumc.columbia.edu
-library.dartmouth.edu
+library.bowdoin.edu	-	2026-09-25
+library.brenau.edu	-	2026-09-25
+library.brooklyn.cuny.edu	-	2026-09-25
+library.brown.edu	-	2026-09-25
+library.bsc.edu	-	2026-09-25
+library.buffalo.edu	-	2026-09-25
+library.buffalostate.edu	-	2026-09-25
+library.calpoly.edu	-	2026-09-25
+library.caltech.edu	-	2026-09-25
+library.calvin.edu	-	2026-09-25
+library.case.edu	-	2026-09-25
+library.ccny.cuny.edu	-	2026-09-25
+library.charlotte.edu	-	2026-09-25
+library.citytech.cuny.edu	-	2026-09-25
+library.claremont.edu	-	2026-09-25
+library.cmu.edu	-	2026-09-25
+library.columbia.edu	-	2026-09-25
+library.columbusstate.edu	-	2026-09-25
+library.cornell.edu	-	2026-09-25
+library.csuchico.edu	-	2026-09-25
+library.csueastbay.edu	-	2026-09-25
+library.csun.edu	-	2026-09-25
+library.csus.edu	-	2026-09-25
+library.csustan.edu	-	2026-09-25
+library.cumc.columbia.edu	-	2026-09-25
+library.dartmouth.edu	-	2026-09-25
 library.depaul.edu
 library.dewv.edu
 library.drexel.edu

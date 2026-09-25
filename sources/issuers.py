@@ -110,8 +110,13 @@ def discover(domain):
         url = "https://%s%s" % (domain, p)
         try:
             status, body = get(url)
-        except (urllib.error.HTTPError, urllib.error.URLError, OSError):
-            continue
+        except urllib.error.HTTPError:
+            continue                  # host answered (404 etc.): try next path
+        except (urllib.error.URLError, OSError):
+            # DNS, refused, TLS or timeout: the host itself is unreachable, and
+            # every remaining path would burn another timeout on it.
+            # ponytail: one transient blip records a miss; --recheck-days retries it
+            return ""
         if status == 200 and LIVE.search(body):
             return url
         time.sleep(0.3)
