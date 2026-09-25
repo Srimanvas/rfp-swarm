@@ -172,8 +172,10 @@ def main():
         # different hosts so no host sees a burst), and skip domains already
         # probed recently.
         today = datetime.now().strftime("%Y-%m-%d")
+        # Known pages need no probe; keeping them in todo let them eat the
+        # --limit slots, so each chunk probed ~13 new domains instead of 200.
         todo = [(d, u, c) for d, u, c in roster
-                if u or stale(c, a.recheck_days)]
+                if not u and stale(c, a.recheck_days)]
         if a.limit:
             todo = todo[:a.limit]
         skipped = len(roster) - len(todo)
