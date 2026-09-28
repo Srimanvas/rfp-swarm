@@ -4822,506 +4822,506 @@ library.csus.edu	-	2026-09-25
 library.csustan.edu	-	2026-09-25
 library.cumc.columbia.edu	-	2026-09-25
 library.dartmouth.edu	-	2026-09-25
-library.depaul.edu
-library.dewv.edu
-library.drexel.edu
-library.drury.edu
-library.duke.edu
-library.ecu.edu
-library.einsteinmed.edu
-library.eiu.edu
-library.eku.edu
-library.escondido.org
-library.fairmontstate.edu
-library.fau.edu
-library.franklincollege.edu
-library.fuqua.duke.edu
-library.gatech.edu
-library.gc.cuny.edu
-library.georgetown.edu
-library.georgiasouthern.edu
-library.gmu.edu
-library.gntc.edu
-library.gsu.edu
-library.gts.edu
-library.gwu.edu
-library.hanover.edu
-library.harvard.edu
-library.hbs.edu
-library.howard.edu
-library.hputx.edu
-library.hsutx.edu
-library.humboldt.edu
-library.illinois.edu
-library.illinoisstate.edu
-library.indianapolis.iu.edu
-library.indianatech.edu
-library.indstate.edu
-library.ivytech.edu
-library.jcsu.edu
-library.jefferson.edu
-library.jhu.edu
-library.kennesaw.edu
-library.kent.edu
-library.las-cruces.org
-library.lasalle.edu
-library.lehigh.edu
-library.louisville.edu
-library.lutherrice.edu
-library.manoa.hawaii.edu
-library.marietta.edu
-library.medicine.yale.edu
-library.mednet.iu.edu
-library.mi.edu
-library.miami.edu
-library.missouri.edu
-library.mnsu.edu
-library.mtsu.edu
-library.ncat.edu
-library.nd.edu
-library.njit.edu
-library.northeastern.edu
-library.northwestern.edu
-library.nysid.edu
-library.nyu.edu
-library.oakland.edu
-library.oglethorpe.edu
-library.okstate.edu
-library.olivetuniversity.edu
-library.oregonstate.edu
-library.osu.edu
-library.owu.edu
-library.pdx.edu
-library.pepperdine.edu
-library.piedmont.edu
-library.pitt.edu
-library.pratt.edu
-library.princeton.edu
-library.ptsem.edu
-library.qc.cuny.edu
-library.reed.edu
-library.rice.edu
-library.richmond.edu
-library.rochester.edu
-library.rpi.edu
-library.samford.edu
-library.sbts.edu
-library.scsu.edu
-library.sdsu.edu
-library.semo.edu
-library.sfc.edu
-library.sfsu.edu
-library.shsu.edu
-library.shu.edu
-library.sjsu.edu
-library.southeasterntech.edu
-library.st-aug.edu
-library.stanford.edu
-library.stevens.edu
-library.stockton.edu
-library.stonybrook.edu
-library.suu.edu
-library.syracuse.edu
-library.tamu.edu
-library.tamuv.edu
-library.tc.columbia.edu
-library.tcnj.edu
-library.tcu.edu
-library.temple.edu
-library.tmc.edu
-library.tulane.edu
-library.txstate.edu
-library.uab.edu
-library.uafs.edu
-library.ucdavis.edu
-library.ucf.edu
-library.ucla.edu
-library.ucmerced.edu
-library.ucr.edu
-library.ucsb.edu
-library.ucsc.edu
-library.ucsd.edu
-library.ucsf.edu
-library.uic.edu
-library.uiuc.edu
-library.umaine.edu
-library.umass.edu
-library.umbc.edu
-library.umkc.edu
-library.un.org
-library.unc.edu
-library.unca.edu
-library.uncg.edu
-library.uncw.edu
-library.und.edu
-library.unh.edu
-library.unlv.edu
-library.unm.edu
-library.unomaha.edu
-library.unr.edu
-library.unt.edu
-library.uoregon.edu
-library.upenn.edu
-library.usu.edu
-library.uttyler.edu
-library.uvm.edu
-library.uwb.edu
-library.uww.edu
-library.vanderbilt.edu
-library.vassar.edu
-library.vcu.edu
-library.villanova.edu
-library.virginia.edu
-library.vsu.edu
-library.wabash.edu
-library.washu.edu
-library.wayne.edu
-library.weber.edu
-library.westmont.edu
-library.westpoint.edu
-library.wheaton.edu
-library.willamette.edu
-library.wisc.edu
-library.wlu.edu
-library.wustl.edu
-library.wvstateu.edu
-library.wvu.edu
-library.wwu.edu
-libraryguides.etown.edu
-libraryguides.goshen.edu
-libraryweb.utep.edu
-librarywest.uflib.ufl.edu
-libs.uga.edu
-life.edu
-lincoln.edu
-lincolnpl.org
-lincolnu.edu
-linfield.edu
-linnbenton.edu
-lithgow.lib.me.us
-littletonpubliclibrary.org
-liveoakpl.org
-livingstone.edu
-ljathenaeum.org
-lloydlibrary.org
-lmunet.edu
-lndl.org
-localhistory.boulderlibrary.org
-longy.edu
-loras.edu
-lordsburghidalgolibrary.com
-louisianadigitallibrary.org
-luna.library.wmich.edu
-lvc.edu
-lynn.edu
-m.queenslibrary.org
-macalester.edu
-macaulaylibrary.org
-mainehistory.org
-mamaronecklibrary.org
-manchester.edu
-mansueto.lib.uchicago.edu
-marcelinelibrary.org
-marquette.edu
-marshall.edu
-marshallco.org
-marshallfoundation.org
-marshallpl.org
-marybakereddylibrary.org
-marymount.edu
-mason.wm.edu
-masshist.org
-mbwm.org
-mccls.org
-mckinneylaw.iu.edu
-mcny.edu
-meadvillelibrary.org
-mec.cuny.edu
-med.fsu.edu
-med.mercer.edu
-melrosepubliclibrary.org
-memphis.edu
-mercantilelibrary.com
-meredith.edu
-meridianmuseum.org
-mesalibrary.org
-mgpl.org
-midland-mi.org
-miles.edu
-milibrary.org
-mills.edu
-mitsfs.mit.edu
-mlc.uga.edu
-mmm.edu
-moffatlibrary.org
-moglibraries.org
-money.org
-monroecounty.lib.oh.us
-montclair.edu
-montclairlibrary.org
-moravian.edu
-morgan.edu
-morris.edu
-morseinstitute.libguides.com
-msmnyc.edu
-mulibraries.missouri.edu
-multcolib.org
-music.library.cornell.edu
-music.utah.edu
-musiclibrary.columbusstate.edu
-musiclibrary.peabody.jhu.edu
-mville.edu
-mvsu.edu
-mybcpl.org
-myjdl.com
-myosceolalibrary.org
-mywpl.org
-nashualibrary.org
-nationalsporting.org
-nau.edu
-nbfpl.org
-nccu.edu
-ncdcr.quartexcollections.com
-ncf.edu
-ndajams.omeka.net
-ndscs.edu
-newspaperarchive.com
-nmhistorymuseum.org
-nmstatelibrary.org
-nmt.edu
-nobts.edu
-northbrook.info
-northlandlibrary.org
-northwestern.edu
-nwpl.org
-nyaa.edu
-nyli.org
-nymasoniclibrary.org
-nyss.org
-oaklandlibrary.org
-oakwood.edu
-oas.org
-obama.org
-oberlin.edu
-odu.edu
-oftc.edu
-ogeecheetech.edu
-ohio.edu
-oilcreekdistrictlibrary.org
-oit.edu
-omeka.lib.jmu.edu
-one.usc.edu
-onlib.org
-orcity.org
-oregondigital.org
-oregonpoeticvoices.org
-orientalarchitecture.com
-osburn.lili.org
-osulibrary.oregonstate.edu
-oswegopubliclibrary.org
-oxford.library.emory.edu
-pafpl.org
-paine.edu
-parkridgelibrary.org
-patten.lib.me.us
-pclha.cvlcollections.org
-peabody.mykansaslibrary.org
-peabodylibrary.org
-perkinslibrary.org
-petalumamuseum.com
-pfaffs.web.lehigh.edu
-pgcmls.info
-philander.edu
-philau.edu
-phoenixpubliclibrary.org
-photoarchive.lib.uchicago.edu
-piedmont.edu
-pitts.emory.edu
-pittsburghqueerhistory.com
-pittsfieldlibrary.org
-plattsburgh.edu
-pml.providence.edu
-pollardml.org
-porter.lib.me.us
-portsmouthathenaeum.org
-ppld.org
-pqc.edu
-preston.lib.mn.us
-providenceathenaeum.org
-provlib.org
-prs.org
-pueblocc.edu
-pvamu.edu
-qcc.libguides.com
-queenslibrary.org
-radcliffe.harvard.edu
-rare.library.cornell.edu
-rarebooks.library.nd.edu
-rbhayes.org
-rbsc.princeton.edu
-rclstn.org
-rdwl.org
-reading.lib.pa.us
-readwritelibrary.org
-redfeather.colibraries.org
-redwoodlibrary.org
-reinhardt.edu
-relay.edu
-repository.usfca.edu
-reuther.wayne.edu
-rhd.thecommunitylibrary.org
-rhml.lib.mo.us
-richlandlibrary.com
-richmont.edu
-rit.edu
-rocklandlibrary.org
-rosenberg-library.org
-rossettiarchive.iath.virginia.edu
-roundlake.sals.edu
-rushford.lib.mn.us
-rustcollege.edu
-rvalibrary.org
-saada.org
-saclibrary.org
-saint-marys.hykucommons.org
-saintmarys.edu
-salemathenaeum.net
-salemstate.edu
-salemu.edu
-samford.edu
-sampson.jsums.edu
-sanduskylib.org
-santacruzmuseum.org
-sarahlawrence.edu
-savannahstate.edu
-savannahtech.edu
-sbpl.info
-scad.edu
-schlowlibrary.org
-scholarcommons.usf.edu
-scholarworks.indianapolis.iu.edu
-scholarworks.utrgv.edu
-scholes.alfred.edu
-sciencehistory.org
-scranton.edu
-sctech.edu
-scu.edu
-sdl.lib.mi.us
-seedsavers.org
-seymourlibrary.org
-sfcm.edu
-sfpl.org
-shakermuseum.us
-shawu.edu
-sheltonstate.edu
-shepherd.edu
-shorter.edu
-sjcpl.org
-sjlibrary.org
-slavesocieties.org
-smithcountyhistoricalsociety.org
-smpl.org
-smu.edu
-somerslibrary.org
-southernarea.lib.wv.us
-southernregional.edu
-southgatech.edu
-spencer.lib.ku.edu
-sphistory.org
-spl.org
-springfieldlibrary.org
-ssf.net
-steubenvillelibrary.org
-stillman.edu
-stonewall-museum.org
-subr.edu
-sullivan.lib.in.us
-suno.edu
-sunyopt.edu
-susla.edu
-susqu.edu
-swarthmore.edu
-swcc.edu
-tacoma.uw.edu
-talladega.edu
-tamuc.edu
-tcpls.org
-teva.contentdm.oclc.org
-texascollege.edu
-textfiles.com
-tfc.edu
-thebestlibrary.net
-thomascranelibrary.org
-thomasu.edu
-tileheritage.org
-time.com
-tnstate.edu
-tougaloo.edu
-trailsmt.org
-trenholmstate.edu
-trexler.muhlenberg.edu
-trincoll.edu
-trinidadpubliclibrary.org
-trinidadstate.edu
-trl.org
-tularecountylibrary.org
-tuskegee.edu
-tvnews.vanderbilt.edu
-uapb.edu
-uca.edu
-ucwv.edu
-udc.libguides.com
-uflib.ufl.edu
-uhcl.edu
-uhlibraries.pressbooks.pub
-uindy.edu
-ulib.iupui.edu
-umes.edu
-umsl.edu
-umt.edu
-un.org
-uncfsu.libcal.com
-unco.edu
-unf.edu
-ung.edu
-upr.edu
-urresearch.rochester.edu
-usc.edu
-usd.edu
-usfca.edu
-usi.edu
-usnwc.edu
-utdallas.edu
-utrgv.edu
-uvi.edu
-uwm.edu
-uwp.edu
-uwrf.edu
-uwyo.edu
-valdosta.edu
-valdostamuseum.com
-valpo.edu
-vaughn.edu
-vermonthistory.org
-veronapubliclibrary.org
-village-npb.org
-vinton.lib.ia.us
-viralnoise.com
-vivalib.org
-vonnegutlibrary.org
-voorhees.edu
-vuu.edu
-wagner.edu
-walpole.library.yale.edu
-waltham.lib.ma.us
-warsawlibrary.org
-waukeganpl.org
-wcu.edu
-web.library.yale.edu
-web.uri.edu
-wesleyan.edu
-wesleyancollege.edu
-western.edu
+library.depaul.edu	-	2026-09-28
+library.dewv.edu	-	2026-09-28
+library.drexel.edu	-	2026-09-28
+library.drury.edu	-	2026-09-28
+library.duke.edu	-	2026-09-28
+library.ecu.edu	-	2026-09-28
+library.einsteinmed.edu	-	2026-09-28
+library.eiu.edu	-	2026-09-28
+library.eku.edu	-	2026-09-28
+library.escondido.org	-	2026-09-28
+library.fairmontstate.edu	-	2026-09-28
+library.fau.edu	-	2026-09-28
+library.franklincollege.edu	-	2026-09-28
+library.fuqua.duke.edu	-	2026-09-28
+library.gatech.edu	-	2026-09-28
+library.gc.cuny.edu	-	2026-09-28
+library.georgetown.edu	-	2026-09-28
+library.georgiasouthern.edu	-	2026-09-28
+library.gmu.edu	-	2026-09-28
+library.gntc.edu	-	2026-09-28
+library.gsu.edu	-	2026-09-28
+library.gts.edu	-	2026-09-28
+library.gwu.edu	-	2026-09-28
+library.hanover.edu	-	2026-09-28
+library.harvard.edu	-	2026-09-28
+library.hbs.edu	-	2026-09-28
+library.howard.edu	-	2026-09-28
+library.hputx.edu	-	2026-09-28
+library.hsutx.edu	-	2026-09-28
+library.humboldt.edu	-	2026-09-28
+library.illinois.edu	-	2026-09-28
+library.illinoisstate.edu	-	2026-09-28
+library.indianapolis.iu.edu	-	2026-09-28
+library.indianatech.edu	-	2026-09-28
+library.indstate.edu	-	2026-09-28
+library.ivytech.edu	-	2026-09-28
+library.jcsu.edu	-	2026-09-28
+library.jefferson.edu	-	2026-09-28
+library.jhu.edu	-	2026-09-28
+library.kennesaw.edu	-	2026-09-28
+library.kent.edu	-	2026-09-28
+library.las-cruces.org	-	2026-09-28
+library.lasalle.edu	-	2026-09-28
+library.lehigh.edu	-	2026-09-28
+library.louisville.edu	-	2026-09-28
+library.lutherrice.edu	-	2026-09-28
+library.manoa.hawaii.edu	-	2026-09-28
+library.marietta.edu	-	2026-09-28
+library.medicine.yale.edu	-	2026-09-28
+library.mednet.iu.edu	-	2026-09-28
+library.mi.edu	-	2026-09-28
+library.miami.edu	-	2026-09-28
+library.missouri.edu	-	2026-09-28
+library.mnsu.edu	-	2026-09-28
+library.mtsu.edu	-	2026-09-28
+library.ncat.edu	-	2026-09-28
+library.nd.edu	-	2026-09-28
+library.njit.edu	-	2026-09-28
+library.northeastern.edu	-	2026-09-28
+library.northwestern.edu	-	2026-09-28
+library.nysid.edu	-	2026-09-28
+library.nyu.edu	-	2026-09-28
+library.oakland.edu	-	2026-09-28
+library.oglethorpe.edu	-	2026-09-28
+library.okstate.edu	-	2026-09-28
+library.olivetuniversity.edu	-	2026-09-28
+library.oregonstate.edu	-	2026-09-28
+library.osu.edu	-	2026-09-28
+library.owu.edu	-	2026-09-28
+library.pdx.edu	-	2026-09-28
+library.pepperdine.edu	-	2026-09-28
+library.piedmont.edu	-	2026-09-28
+library.pitt.edu	-	2026-09-28
+library.pratt.edu	-	2026-09-28
+library.princeton.edu	-	2026-09-28
+library.ptsem.edu	-	2026-09-28
+library.qc.cuny.edu	-	2026-09-28
+library.reed.edu	-	2026-09-28
+library.rice.edu	-	2026-09-28
+library.richmond.edu	-	2026-09-28
+library.rochester.edu	-	2026-09-28
+library.rpi.edu	-	2026-09-28
+library.samford.edu	-	2026-09-28
+library.sbts.edu	-	2026-09-28
+library.scsu.edu	-	2026-09-28
+library.sdsu.edu	-	2026-09-28
+library.semo.edu	-	2026-09-28
+library.sfc.edu	-	2026-09-28
+library.sfsu.edu	-	2026-09-28
+library.shsu.edu	-	2026-09-28
+library.shu.edu	-	2026-09-28
+library.sjsu.edu	-	2026-09-28
+library.southeasterntech.edu	-	2026-09-28
+library.st-aug.edu	-	2026-09-28
+library.stanford.edu	-	2026-09-28
+library.stevens.edu	-	2026-09-28
+library.stockton.edu	-	2026-09-28
+library.stonybrook.edu	-	2026-09-28
+library.suu.edu	-	2026-09-28
+library.syracuse.edu	-	2026-09-28
+library.tamu.edu	-	2026-09-28
+library.tamuv.edu	-	2026-09-28
+library.tc.columbia.edu	-	2026-09-28
+library.tcnj.edu	-	2026-09-28
+library.tcu.edu	-	2026-09-28
+library.temple.edu	-	2026-09-28
+library.tmc.edu	-	2026-09-28
+library.tulane.edu	-	2026-09-28
+library.txstate.edu	-	2026-09-28
+library.uab.edu	-	2026-09-28
+library.uafs.edu	-	2026-09-28
+library.ucdavis.edu	-	2026-09-28
+library.ucf.edu	-	2026-09-28
+library.ucla.edu	-	2026-09-28
+library.ucmerced.edu	-	2026-09-28
+library.ucr.edu	-	2026-09-28
+library.ucsb.edu	-	2026-09-28
+library.ucsc.edu	-	2026-09-28
+library.ucsd.edu	-	2026-09-28
+library.ucsf.edu	-	2026-09-28
+library.uic.edu	-	2026-09-28
+library.uiuc.edu	-	2026-09-28
+library.umaine.edu	-	2026-09-28
+library.umass.edu	-	2026-09-28
+library.umbc.edu	-	2026-09-28
+library.umkc.edu	-	2026-09-28
+library.un.org	-	2026-09-28
+library.unc.edu	-	2026-09-28
+library.unca.edu	-	2026-09-28
+library.uncg.edu	-	2026-09-28
+library.uncw.edu	-	2026-09-28
+library.und.edu	-	2026-09-28
+library.unh.edu	-	2026-09-28
+library.unlv.edu	-	2026-09-28
+library.unm.edu	-	2026-09-28
+library.unomaha.edu	-	2026-09-28
+library.unr.edu	-	2026-09-28
+library.unt.edu	-	2026-09-28
+library.uoregon.edu	-	2026-09-28
+library.upenn.edu	-	2026-09-28
+library.usu.edu	-	2026-09-28
+library.uttyler.edu	-	2026-09-28
+library.uvm.edu	-	2026-09-28
+library.uwb.edu	-	2026-09-28
+library.uww.edu	-	2026-09-28
+library.vanderbilt.edu	-	2026-09-28
+library.vassar.edu	-	2026-09-28
+library.vcu.edu	-	2026-09-28
+library.villanova.edu	-	2026-09-28
+library.virginia.edu	-	2026-09-28
+library.vsu.edu	-	2026-09-28
+library.wabash.edu	-	2026-09-28
+library.washu.edu	-	2026-09-28
+library.wayne.edu	-	2026-09-28
+library.weber.edu	https://library.weber.edu/rfp
+library.westmont.edu	-	2026-09-28
+library.westpoint.edu	-	2026-09-28
+library.wheaton.edu	https://library.wheaton.edu/rfp
+library.willamette.edu	-	2026-09-28
+library.wisc.edu	-	2026-09-28
+library.wlu.edu	-	2026-09-28
+library.wustl.edu	-	2026-09-28
+library.wvstateu.edu	-	2026-09-28
+library.wvu.edu	-	2026-09-28
+library.wwu.edu	-	2026-09-28
+libraryguides.etown.edu	-	2026-09-28
+libraryguides.goshen.edu	-	2026-09-28
+libraryweb.utep.edu	-	2026-09-28
+librarywest.uflib.ufl.edu	-	2026-09-28
+libs.uga.edu	-	2026-09-28
+life.edu	https://life.edu/rfp
+lincoln.edu	-	2026-09-28
+lincolnpl.org	-	2026-09-28
+lincolnu.edu	-	2026-09-28
+linfield.edu	-	2026-09-28
+linnbenton.edu	-	2026-09-28
+lithgow.lib.me.us	-	2026-09-28
+littletonpubliclibrary.org	-	2026-09-28
+liveoakpl.org	https://liveoakpl.org/rfp
+livingstone.edu	-	2026-09-28
+ljathenaeum.org	-	2026-09-28
+lloydlibrary.org	-	2026-09-28
+lmunet.edu	-	2026-09-28
+lndl.org	-	2026-09-28
+localhistory.boulderlibrary.org	-	2026-09-28
+longy.edu	-	2026-09-28
+loras.edu	-	2026-09-28
+lordsburghidalgolibrary.com	-	2026-09-28
+louisianadigitallibrary.org	-	2026-09-28
+luna.library.wmich.edu	-	2026-09-28
+lvc.edu	-	2026-09-28
+lynn.edu	-	2026-09-28
+m.queenslibrary.org	-	2026-09-28
+macalester.edu	-	2026-09-28
+macaulaylibrary.org	-	2026-09-28
+mainehistory.org	-	2026-09-28
+mamaronecklibrary.org	-	2026-09-28
+manchester.edu	-	2026-09-28
+mansueto.lib.uchicago.edu	-	2026-09-28
+marcelinelibrary.org	-	2026-09-28
+marquette.edu	-	2026-09-28
+marshall.edu	-	2026-09-28
+marshallco.org	-	2026-09-28
+marshallfoundation.org	-	2026-09-28
+marshallpl.org	-	2026-09-28
+marybakereddylibrary.org	-	2026-09-28
+marymount.edu	-	2026-09-28
+mason.wm.edu	-	2026-09-28
+masshist.org	-	2026-09-28
+mbwm.org	-	2026-09-28
+mccls.org	-	2026-09-28
+mckinneylaw.iu.edu	-	2026-09-28
+mcny.edu	-	2026-09-28
+meadvillelibrary.org	-	2026-09-28
+mec.cuny.edu	https://mec.cuny.edu/about/procurement
+med.fsu.edu	-	2026-09-28
+med.mercer.edu	-	2026-09-28
+melrosepubliclibrary.org	-	2026-09-28
+memphis.edu	-	2026-09-28
+mercantilelibrary.com	-	2026-09-28
+meredith.edu	-	2026-09-28
+meridianmuseum.org	-	2026-09-28
+mesalibrary.org	-	2026-09-28
+mgpl.org	-	2026-09-28
+midland-mi.org	-	2026-09-28
+miles.edu	https://miles.edu/procurement
+milibrary.org	-	2026-09-28
+mills.edu	-	2026-09-28
+mitsfs.mit.edu	-	2026-09-28
+mlc.uga.edu	-	2026-09-28
+mmm.edu	-	2026-09-28
+moffatlibrary.org	-	2026-09-28
+moglibraries.org	-	2026-09-28
+money.org	-	2026-09-28
+monroecounty.lib.oh.us	-	2026-09-28
+montclair.edu	-	2026-09-28
+montclairlibrary.org	-	2026-09-28
+moravian.edu	-	2026-09-28
+morgan.edu	-	2026-09-28
+morris.edu	-	2026-09-28
+morseinstitute.libguides.com	-	2026-09-28
+msmnyc.edu	-	2026-09-28
+mulibraries.missouri.edu	-	2026-09-28
+multcolib.org	-	2026-09-28
+music.library.cornell.edu	-	2026-09-28
+music.utah.edu	-	2026-09-28
+musiclibrary.columbusstate.edu	-	2026-09-28
+musiclibrary.peabody.jhu.edu	-	2026-09-28
+mville.edu	-	2026-09-28
+mvsu.edu	-	2026-09-28
+mybcpl.org	-	2026-09-28
+myjdl.com	-	2026-09-28
+myosceolalibrary.org	-	2026-09-28
+mywpl.org	-	2026-09-28
+nashualibrary.org	-	2026-09-28
+nationalsporting.org	-	2026-09-28
+nau.edu	-	2026-09-28
+nbfpl.org	-	2026-09-28
+nccu.edu	-	2026-09-28
+ncdcr.quartexcollections.com	-	2026-09-28
+ncf.edu	https://ncf.edu/procurement
+ndajams.omeka.net	-	2026-09-28
+ndscs.edu	-	2026-09-28
+newspaperarchive.com	-	2026-09-28
+nmhistorymuseum.org	-	2026-09-28
+nmstatelibrary.org	-	2026-09-28
+nmt.edu	-	2026-09-28
+nobts.edu	-	2026-09-28
+northbrook.info	-	2026-09-28
+northlandlibrary.org	-	2026-09-28
+northwestern.edu	-	2026-09-28
+nwpl.org	-	2026-09-28
+nyaa.edu	-	2026-09-28
+nyli.org	-	2026-09-28
+nymasoniclibrary.org	-	2026-09-28
+nyss.org	-	2026-09-28
+oaklandlibrary.org	-	2026-09-28
+oakwood.edu	-	2026-09-28
+oas.org	-	2026-09-28
+obama.org	-	2026-09-28
+oberlin.edu	-	2026-09-28
+odu.edu	-	2026-09-28
+oftc.edu	-	2026-09-28
+ogeecheetech.edu	-	2026-09-28
+ohio.edu	-	2026-09-28
+oilcreekdistrictlibrary.org	-	2026-09-28
+oit.edu	-	2026-09-28
+omeka.lib.jmu.edu	-	2026-09-28
+one.usc.edu	-	2026-09-28
+onlib.org	-	2026-09-28
+orcity.org	-	2026-09-28
+oregondigital.org	-	2026-09-28
+oregonpoeticvoices.org	-	2026-09-28
+orientalarchitecture.com	https://orientalarchitecture.com/rfp
+osburn.lili.org	-	2026-09-28
+osulibrary.oregonstate.edu	-	2026-09-28
+oswegopubliclibrary.org	-	2026-09-28
+oxford.library.emory.edu	-	2026-09-28
+pafpl.org	-	2026-09-28
+paine.edu	-	2026-09-28
+parkridgelibrary.org	-	2026-09-28
+patten.lib.me.us	-	2026-09-28
+pclha.cvlcollections.org	-	2026-09-28
+peabody.mykansaslibrary.org	-	2026-09-28
+peabodylibrary.org	-	2026-09-28
+perkinslibrary.org	-	2026-09-28
+petalumamuseum.com	-	2026-09-28
+pfaffs.web.lehigh.edu	-	2026-09-28
+pgcmls.info	https://pgcmls.info/procurement
+philander.edu	-	2026-09-28
+philau.edu	-	2026-09-28
+phoenixpubliclibrary.org	-	2026-09-28
+photoarchive.lib.uchicago.edu	-	2026-09-28
+piedmont.edu	-	2026-09-28
+pitts.emory.edu	-	2026-09-28
+pittsburghqueerhistory.com	-	2026-09-28
+pittsfieldlibrary.org	-	2026-09-28
+plattsburgh.edu	-	2026-09-28
+pml.providence.edu	-	2026-09-28
+pollardml.org	-	2026-09-28
+porter.lib.me.us	-	2026-09-28
+portsmouthathenaeum.org	-	2026-09-28
+ppld.org	https://ppld.org/rfp
+pqc.edu	https://pqc.edu/procurement
+preston.lib.mn.us	-	2026-09-28
+providenceathenaeum.org	https://providenceathenaeum.org/request-for-proposals
+provlib.org	-	2026-09-28
+prs.org	-	2026-09-28
+pueblocc.edu	-	2026-09-28
+pvamu.edu	-	2026-09-28
+qcc.libguides.com	-	2026-09-28
+queenslibrary.org	-	2026-09-28
+radcliffe.harvard.edu	-	2026-09-28
+rare.library.cornell.edu	-	2026-09-28
+rarebooks.library.nd.edu	-	2026-09-28
+rbhayes.org	-	2026-09-28
+rbsc.princeton.edu	-	2026-09-28
+rclstn.org	-	2026-09-28
+rdwl.org	-	2026-09-28
+reading.lib.pa.us	-	2026-09-28
+readwritelibrary.org	-	2026-09-28
+redfeather.colibraries.org	-	2026-09-28
+redwoodlibrary.org	-	2026-09-28
+reinhardt.edu	-	2026-09-28
+relay.edu	-	2026-09-28
+repository.usfca.edu	-	2026-09-28
+reuther.wayne.edu	-	2026-09-28
+rhd.thecommunitylibrary.org	-	2026-09-28
+rhml.lib.mo.us	-	2026-09-28
+richlandlibrary.com	-	2026-09-28
+richmont.edu	-	2026-09-28
+rit.edu	-	2026-09-28
+rocklandlibrary.org	-	2026-09-28
+rosenberg-library.org	-	2026-09-28
+rossettiarchive.iath.virginia.edu	-	2026-09-28
+roundlake.sals.edu	-	2026-09-28
+rushford.lib.mn.us	-	2026-09-28
+rustcollege.edu	-	2026-09-28
+rvalibrary.org	-	2026-09-28
+saada.org	-	2026-09-28
+saclibrary.org	-	2026-09-28
+saint-marys.hykucommons.org	-	2026-09-28
+saintmarys.edu	-	2026-09-28
+salemathenaeum.net	-	2026-09-28
+salemstate.edu	-	2026-09-28
+salemu.edu	-	2026-09-28
+samford.edu	-	2026-09-28
+sampson.jsums.edu	-	2026-09-28
+sanduskylib.org	-	2026-09-28
+santacruzmuseum.org	-	2026-09-28
+sarahlawrence.edu	-	2026-09-28
+savannahstate.edu	-	2026-09-28
+savannahtech.edu	-	2026-09-28
+sbpl.info	-	2026-09-28
+scad.edu	-	2026-09-28
+schlowlibrary.org	-	2026-09-28
+scholarcommons.usf.edu	-	2026-09-28
+scholarworks.indianapolis.iu.edu	-	2026-09-28
+scholarworks.utrgv.edu	-	2026-09-28
+scholes.alfred.edu	-	2026-09-28
+sciencehistory.org	-	2026-09-28
+scranton.edu	-	2026-09-28
+sctech.edu	-	2026-09-28
+scu.edu	-	2026-09-28
+sdl.lib.mi.us	-	2026-09-28
+seedsavers.org	-	2026-09-28
+seymourlibrary.org	-	2026-09-28
+sfcm.edu	-	2026-09-28
+sfpl.org	-	2026-09-28
+shakermuseum.us	-	2026-09-28
+shawu.edu	https://shawu.edu/rfp
+sheltonstate.edu	-	2026-09-28
+shepherd.edu	-	2026-09-28
+shorter.edu	-	2026-09-28
+sjcpl.org	-	2026-09-28
+sjlibrary.org	-	2026-09-28
+slavesocieties.org	-	2026-09-28
+smithcountyhistoricalsociety.org	-	2026-09-28
+smpl.org	-	2026-09-28
+smu.edu	-	2026-09-28
+somerslibrary.org	-	2026-09-28
+southernarea.lib.wv.us	-	2026-09-28
+southernregional.edu	-	2026-09-28
+southgatech.edu	-	2026-09-28
+spencer.lib.ku.edu	-	2026-09-28
+sphistory.org	-	2026-09-28
+spl.org	-	2026-09-28
+springfieldlibrary.org	-	2026-09-28
+ssf.net	-	2026-09-28
+steubenvillelibrary.org	-	2026-09-28
+stillman.edu	-	2026-09-28
+stonewall-museum.org	-	2026-09-28
+subr.edu	-	2026-09-28
+sullivan.lib.in.us	-	2026-09-28
+suno.edu	-	2026-09-28
+sunyopt.edu	-	2026-09-28
+susla.edu	-	2026-09-28
+susqu.edu	-	2026-09-28
+swarthmore.edu	-	2026-09-28
+swcc.edu	-	2026-09-28
+tacoma.uw.edu	-	2026-09-28
+talladega.edu	-	2026-09-28
+tamuc.edu	-	2026-09-28
+tcpls.org	-	2026-09-28
+teva.contentdm.oclc.org	-	2026-09-28
+texascollege.edu	-	2026-09-28
+textfiles.com	-	2026-09-28
+tfc.edu	-	2026-09-28
+thebestlibrary.net	-	2026-09-28
+thomascranelibrary.org	-	2026-09-28
+thomasu.edu	-	2026-09-28
+tileheritage.org	-	2026-09-28
+time.com	-	2026-09-28
+tnstate.edu	-	2026-09-28
+tougaloo.edu	-	2026-09-28
+trailsmt.org	-	2026-09-28
+trenholmstate.edu	-	2026-09-28
+trexler.muhlenberg.edu	-	2026-09-28
+trincoll.edu	-	2026-09-28
+trinidadpubliclibrary.org	-	2026-09-28
+trinidadstate.edu	-	2026-09-28
+trl.org	https://trl.org/rfp
+tularecountylibrary.org	-	2026-09-28
+tuskegee.edu	-	2026-09-28
+tvnews.vanderbilt.edu	-	2026-09-28
+uapb.edu	https://uapb.edu/procurement
+uca.edu	-	2026-09-28
+ucwv.edu	-	2026-09-28
+udc.libguides.com	-	2026-09-28
+uflib.ufl.edu	-	2026-09-28
+uhcl.edu	-	2026-09-28
+uhlibraries.pressbooks.pub	-	2026-09-28
+uindy.edu	-	2026-09-28
+ulib.iupui.edu	-	2026-09-28
+umes.edu	-	2026-09-28
+umsl.edu	-	2026-09-28
+umt.edu	-	2026-09-28
+un.org	https://un.org/procurement
+uncfsu.libcal.com	-	2026-09-28
+unco.edu	-	2026-09-28
+unf.edu	https://unf.edu/procurement
+ung.edu	-	2026-09-28
+upr.edu	-	2026-09-28
+urresearch.rochester.edu	-	2026-09-28
+usc.edu	-	2026-09-28
+usd.edu	-	2026-09-28
+usfca.edu	-	2026-09-28
+usi.edu	-	2026-09-28
+usnwc.edu	-	2026-09-28
+utdallas.edu	-	2026-09-28
+utrgv.edu	-	2026-09-28
+uvi.edu	-	2026-09-28
+uwm.edu	-	2026-09-28
+uwp.edu	-	2026-09-28
+uwrf.edu	-	2026-09-28
+uwyo.edu	-	2026-09-28
+valdosta.edu	https://valdosta.edu/procurement
+valdostamuseum.com	-	2026-09-28
+valpo.edu	https://valpo.edu/procurement
+vaughn.edu	-	2026-09-28
+vermonthistory.org	-	2026-09-28
+veronapubliclibrary.org	https://veronapubliclibrary.org/rfp
+village-npb.org	-	2026-09-28
+vinton.lib.ia.us	-	2026-09-28
+viralnoise.com	-	2026-09-28
+vivalib.org	-	2026-09-28
+vonnegutlibrary.org	-	2026-09-28
+voorhees.edu	-	2026-09-28
+vuu.edu	-	2026-09-28
+wagner.edu	-	2026-09-28
+walpole.library.yale.edu	-	2026-09-28
+waltham.lib.ma.us	-	2026-09-28
+warsawlibrary.org	-	2026-09-28
+waukeganpl.org	-	2026-09-28
+wcu.edu	-	2026-09-28
+web.library.yale.edu	-	2026-09-28
+web.uri.edu	-	2026-09-28
+wesleyan.edu	-	2026-09-28
+wesleyancollege.edu	-	2026-09-28
+western.edu	-	2026-09-28
 westga.edu
 westgatech.edu
 westlebanon.lib.in.us
