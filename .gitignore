@@ -26,6 +26,7 @@ runs/
 *.pdf
 *.docx
 *.zip
+*.log
 .sweep/
 
 # --- ordinary noise
