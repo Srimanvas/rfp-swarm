@@ -38,6 +38,7 @@ venv/
 .DS_Store
 Thumbs.db
 .scratch/
+.sweep-scratch/
 
 # local discovery runner output
 run_discovery.sh
