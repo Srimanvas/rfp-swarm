@@ -11,6 +11,8 @@ RULES.md
 # --- found opportunities and anything derived from them
 BOARD-LEDGER.md
 SCREEN-*.md
+SWEEP-*.md
+scratch-*.md
 seen-notices*.json
 opportunities/
 rfps/
