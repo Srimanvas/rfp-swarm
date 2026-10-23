@@ -28,6 +28,7 @@ runs/
 *.zip
 *.log
 *.b64
+*-output.txt
 .sweep/
 
 # --- ordinary noise
